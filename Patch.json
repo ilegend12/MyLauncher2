@@ -1,0 +1,790 @@
+{
+  "Version": "2.0.0.2",
+  "Files": [
+    {
+      "MD5": "4bb01d011444fbde3f2e6ee44de732f7",
+      "Path": "/ABuse.dll",
+      "CompressedPath": "/ABuse.dll.7z"
+    },
+    {
+      "MD5": "2aeec421dcff894a8e4c8c74af792911",
+      "Path": "/ACDC.dat",
+      "CompressedPath": "/ACDC.dat.7z"
+    },
+    {
+      "MD5": "0fc6ad4d7822ca186ce37e29c2692d43",
+      "Path": "/ACDD.idx",
+      "CompressedPath": "/ACDD.idx.7z"
+    },
+    {
+      "MD5": "d702219c64fa63a9e2ce59367db39442",
+      "Path": "/Adv.dll",
+      "CompressedPath": "/Adv.dll.7z"
+    },
+    {
+      "MD5": "1bd5b95ce9c253cf624b80b95fe24755",
+      "Path": "/AOP.strs",
+      "CompressedPath": "/AOP.strs.7z"
+    },
+    {
+      "MD5": "d82018bf999568e0bd99db16dd2b135a",
+      "Path": "/cltax.xmf",
+      "CompressedPath": "/cltax.xmf.7z"
+    },
+    {
+      "MD5": "1364dfb2ebacb045aa40a8d0f8707805",
+      "Path": "/d3dx9.dll",
+      "CompressedPath": "/d3dx9.dll.7z"
+    },
+    {
+      "MD5": "26af232140c88b42d92a88f2198edf6a",
+      "Path": "/d3dx9_32.dll",
+      "CompressedPath": "/d3dx9_32.dll.7z"
+    },
+    {
+      "MD5": "1ca939918ed1b930059b3a882de6f648",
+      "Path": "/d3dx9_34.dll",
+      "CompressedPath": "/d3dx9_34.dll.7z"
+    },
+    {
+      "MD5": "44bfec5c9c82a2ee9871d88fd3b9a0e2",
+      "Path": "/d3dx9_36.dll",
+      "CompressedPath": "/d3dx9_36.dll.7z"
+    },
+    {
+      "MD5": "6757dc5dc689d672e0d59b69b256a6c0",
+      "Path": "/DATedit.exe",
+      "CompressedPath": "/DATedit.exe.7z"
+    },
+    {
+      "MD5": "463427a8129bf4bcee6fd9f1a115814e",
+      "Path": "/dbghelp.dll",
+      "CompressedPath": "/dbghelp.dll.7z"
+    },
+    {
+      "MD5": "b203b87260eb5e2eb255fccd1a398e05",
+      "Path": "/dlctemp.db",
+      "CompressedPath": "/dlctemp.db.7z"
+    },
+    {
+      "MD5": "09e48836bb3a91e01bd8842347e62b07",
+      "Path": "/Encryptor.exe",
+      "CompressedPath": "/Encryptor.exe.7z"
+    },
+    {
+      "MD5": "e480123224a05f69597c9dbff69f612e",
+      "Path": "/GameGuard.des",
+      "CompressedPath": "/GameGuard.des.7z"
+    },
+    {
+      "MD5": "991c1ea7808779cdae603a2b3131a65e",
+      "Path": "/iCoreClient.dll",
+      "CompressedPath": "/iCoreClient.dll.7z"
+    },
+    {
+      "MD5": "63b03e8a6c5fd2baedd32af00a4684d9",
+      "Path": "/Launcher.enc",
+      "CompressedPath": "/Launcher.enc.7z"
+    },
+    {
+      "MD5": "1bb7db39d984534bbff9c730ccda0cea",
+      "Path": "/Launcher.exe",
+      "CompressedPath": "/Launcher.exe.7z"
+    },
+    {
+      "MD5": "6175090c6b5b1816f0834f94fbefe1e7",
+      "Path": "/Launcher.ini",
+      "CompressedPath": "/Launcher.ini.7z"
+    },
+    {
+      "MD5": "877f7916f1c8d2f54ff8888c835dc48e",
+      "Path": "/Launcher.xml",
+      "CompressedPath": "/Launcher.xml.7z"
+    },
+    {
+      "MD5": "6400e224b8b44ece59a992e6d8233719",
+      "Path": "/MSS32.DLL",
+      "CompressedPath": "/MSS32.DLL.7z"
+    },
+    {
+      "MD5": "189576dfe55af3b70db7e3e2312cd0fd",
+      "Path": "/mssmp3.asi",
+      "CompressedPath": "/mssmp3.asi.7z"
+    },
+    {
+      "MD5": "0a806af0f095ce651bf7e69f3aab5807",
+      "Path": "/PDLL.dll",
+      "CompressedPath": "/PDLL.dll.7z"
+    },
+    {
+      "MD5": "3411eaa37eadd7818678f4b40ebba9d2",
+      "Path": "/PurifierA.dll",
+      "CompressedPath": "/PurifierA.dll.7z"
+    },
+    {
+      "MD5": "3ea7444df1b0755d84c204eac532564c",
+      "Path": "/R3Engine.ini",
+      "CompressedPath": "/R3Engine.ini.7z"
+    },
+    {
+      "MD5": "76870bab83b69694407ac7982e428e61",
+      "Path": "/rdmex.dll",
+      "CompressedPath": "/rdmex.dll.7z"
+    },
+    {
+      "MD5": "66d0279847af497cedf30286bc56643f",
+      "Path": "/RF_Online - Copy.bin",
+      "CompressedPath": "/RF_Online - Copy.bin.7z"
+    },
+    {
+      "MD5": "eb657928a96923172db19e29eaca8b6c",
+      "Path": "/RF_Online.bin",
+      "CompressedPath": "/RF_Online.bin.7z"
+    },
+    {
+      "MD5": "7f0b61173d33fb43398c106d534fd084",
+      "Path": "/sl.dat",
+      "CompressedPath": "/sl.dat.7z"
+    },
+    {
+      "MD5": "b0251a292dc55417cc893d0abb735094",
+      "Path": "/StringLoaderA.dll",
+      "CompressedPath": "/StringLoaderA.dll.7z"
+    },
+    {
+      "MD5": "c890b56495e8a9e9b72389f5eef9997a",
+      "Path": "/TcX2G.dll",
+      "CompressedPath": "/TcX2G.dll.7z"
+    },
+    {
+      "MD5": "89a2c73cae785fe0ab70778cd09f2675",
+      "Path": "/Updater.lc",
+      "CompressedPath": "/Updater.lc.7z"
+    },
+    {
+      "MD5": "997e3dcf24e2df2fe786b702285af600",
+      "Path": "/Website.url",
+      "CompressedPath": "/Website.url.7z"
+    },
+    {
+      "MD5": "107cc57a78afccaf27ddf69780a6b341",
+      "Path": "/X2PMgr.dll",
+      "CompressedPath": "/X2PMgr.dll.7z"
+    },
+    {
+      "MD5": "2136051a2bbe6c07abb852a5be48d748",
+      "Path": "/x2prm.sys",
+      "CompressedPath": "/x2prm.sys.7z"
+    },
+    {
+      "MD5": "2fc029aef675b5e559faa93c0b2f8ff9",
+      "Path": "/x2prm2.sys",
+      "CompressedPath": "/x2prm2.sys.7z"
+    },
+    {
+      "MD5": "2bdf14ae36ae102d7d2d5bdd07730cbf",
+      "Path": "/X2ProcMon.dll",
+      "CompressedPath": "/X2ProcMon.dll.7z"
+    },
+    {
+      "MD5": "b364b5f0b86340de73c393749d388d2b",
+      "Path": "/X2PU.dll",
+      "CompressedPath": "/X2PU.dll.7z"
+    },
+    {
+      "MD5": "45c67be969d1a0ebad0d8e8333f9f89e",
+      "Path": "/X2ReportDll.dll",
+      "CompressedPath": "/X2ReportDll.dll.7z"
+    },
+    {
+      "MD5": "f1d3ff8443297732862df21dc4e57262",
+      "Path": "/DataTable/BlockData.dat",
+      "CompressedPath": "/DataTable/BlockData.dat.7z"
+    },
+    {
+      "MD5": "6a8004efc3c4f95881d2e23136a6133f",
+      "Path": "/DataTable/Character.edf",
+      "CompressedPath": "/DataTable/Character.edf.7z"
+    },
+    {
+      "MD5": "a206b15ba5d88cca1cacacbd481cf3e0",
+      "Path": "/DataTable/clientdb.dat",
+      "CompressedPath": "/DataTable/clientdb.dat.7z"
+    },
+    {
+      "MD5": "f3cdc9553f311cecf2048092d941345d",
+      "Path": "/DataTable/enph_font.json",
+      "CompressedPath": "/DataTable/enph_font.json.7z"
+    },
+    {
+      "MD5": "6457c088f8e8a3b6eb830680593041d6",
+      "Path": "/DataTable/EventShip.edf",
+      "CompressedPath": "/DataTable/EventShip.edf.7z"
+    },
+    {
+      "MD5": "6c5cf0edb5901e658e4331766cbda3a7",
+      "Path": "/DataTable/GameSetting.ini",
+      "CompressedPath": "/DataTable/GameSetting.ini.7z"
+    },
+    {
+      "MD5": "5d8b770c75d2a2ad663240828d295ab0",
+      "Path": "/DataTable/Item.edf",
+      "CompressedPath": "/DataTable/Item.edf.7z"
+    },
+    {
+      "MD5": "8e56783be0a27d023de89c1f96be619b",
+      "Path": "/DataTable/ItemCash.edf",
+      "CompressedPath": "/DataTable/ItemCash.edf.7z"
+    },
+    {
+      "MD5": "38d6050c588812af1e74b3f968b6405f",
+      "Path": "/DataTable/ItemCombine.edf",
+      "CompressedPath": "/DataTable/ItemCombine.edf.7z"
+    },
+    {
+      "MD5": "c13449ba4e58d547dc2e868ef82d62ea",
+      "Path": "/DataTable/ItemPremium.edf",
+      "CompressedPath": "/DataTable/ItemPremium.edf.7z"
+    },
+    {
+      "MD5": "ba1bba62ddd993e7f8a2b8819171a758",
+      "Path": "/DataTable/ItemSetEffect.edf",
+      "CompressedPath": "/DataTable/ItemSetEffect.edf.7z"
+    },
+    {
+      "MD5": "0ccb7d7f27271217670bebc7e13a9f14",
+      "Path": "/DataTable/ItemTimer.edf",
+      "CompressedPath": "/DataTable/ItemTimer.edf.7z"
+    },
+    {
+      "MD5": "d8a8d6abd3c554f482dbdf828d9335d8",
+      "Path": "/DataTable/Map.edf",
+      "CompressedPath": "/DataTable/Map.edf.7z"
+    },
+    {
+      "MD5": "cb78fc1f43c298a2a7f5238ab20c3ee0",
+      "Path": "/DataTable/MsgEvent.edf",
+      "CompressedPath": "/DataTable/MsgEvent.edf.7z"
+    },
+    {
+      "MD5": "cd675f0ed9bc37ccf516451d4fd28dfd",
+      "Path": "/DataTable/PlayerCharacter.edf",
+      "CompressedPath": "/DataTable/PlayerCharacter.edf.7z"
+    },
+    {
+      "MD5": "be366447ff2fb506b9c0852c33320f8c",
+      "Path": "/DataTable/Quest.edf",
+      "CompressedPath": "/DataTable/Quest.edf.7z"
+    },
+    {
+      "MD5": "f6a517acee5788c6612348fbedd2ec42",
+      "Path": "/DataTable/Resource.edf",
+      "CompressedPath": "/DataTable/Resource.edf.7z"
+    },
+    {
+      "MD5": "cad4e2a5fe0dce790e6f9414ec7e9543",
+      "Path": "/DataTable/SkillForce.edf",
+      "CompressedPath": "/DataTable/SkillForce.edf.7z"
+    },
+    {
+      "MD5": "e22906e69b485eccb4501931d429e234",
+      "Path": "/DataTable/Store.edf",
+      "CompressedPath": "/DataTable/Store.edf.7z"
+    },
+    {
+      "MD5": "ec3e979226fca4ed9b431b12f68fc1dd",
+      "Path": "/System/010.TTF",
+      "CompressedPath": "/System/010.TTF.7z"
+    },
+    {
+      "MD5": "f93bc46c28b9ab64a0edc428bcf8b6a9",
+      "Path": "/System/ccrlogo.dds",
+      "CompressedPath": "/System/ccrlogo.dds.7z"
+    },
+    {
+      "MD5": "a5825e1afa1505cc87ef6e53b4fe592c",
+      "Path": "/System/console.jpg",
+      "CompressedPath": "/System/console.jpg.7z"
+    },
+    {
+      "MD5": "99268e1ba0300a448dd2e054295deaca",
+      "Path": "/System/default.cfg",
+      "CompressedPath": "/System/default.cfg.7z"
+    },
+    {
+      "MD5": "34ff9c58f656ec3bda8c56e64be814ba",
+      "Path": "/System/DefaultSet.tmp",
+      "CompressedPath": "/System/DefaultSet.tmp.7z"
+    },
+    {
+      "MD5": "db5b44ed7bd0b6414f771b25292d7e43",
+      "Path": "/System/DeleteFileList.txt",
+      "CompressedPath": "/System/DeleteFileList.txt.7z"
+    },
+    {
+      "MD5": "04a5b750e2b59c98664c7faef8693952",
+      "Path": "/System/FileData.z",
+      "CompressedPath": "/System/FileData.z.7z"
+    },
+    {
+      "MD5": "aaa333bcd8d7feb461824dc35675fa33",
+      "Path": "/System/idll.rdt",
+      "CompressedPath": "/System/idll.rdt.7z"
+    },
+    {
+      "MD5": "13d081c58e90c363d9240cb052a29d68",
+      "Path": "/System/rfoemf.dat",
+      "CompressedPath": "/System/rfoemf.dat.7z"
+    },
+    {
+      "MD5": "2ba46b09da21622bd318cc029a9da0c9",
+      "Path": "/System/staff.txt",
+      "CompressedPath": "/System/staff.txt.7z"
+    },
+    {
+      "MD5": "dc950c90bae89444e44bd985d5bae94f",
+      "Path": "/System/sun.dds",
+      "CompressedPath": "/System/sun.dds.7z"
+    },
+    {
+      "MD5": "e6b15e5062d0591729e3765d335b1039",
+      "Path": "/System/titlelogo.tga",
+      "CompressedPath": "/System/titlelogo.tga.7z"
+    },
+    {
+      "MD5": "e0d95f1be0d44d02fae0ee6778d5cdb7",
+      "Path": "/System/titlelogocn.tga",
+      "CompressedPath": "/System/titlelogocn.tga.7z"
+    },
+    {
+      "MD5": "4c69118744ea89dab844e5305fecca4f",
+      "Path": "/System/uifont.ttf",
+      "CompressedPath": "/System/uifont.ttf.7z"
+    },
+    {
+      "MD5": "8076ec4fea9b79f7e1a2014fd0fa5e8d",
+      "Path": "/DataTable/en-ph/Apa.dic",
+      "CompressedPath": "/DataTable/en-ph/Apa.dic.7z"
+    },
+    {
+      "MD5": "c939bcc9e03e66ba64bb733faa5eb7cd",
+      "Path": "/DataTable/en-ph/ar.scp",
+      "CompressedPath": "/DataTable/en-ph/ar.scp.7z"
+    },
+    {
+      "MD5": "66dca7924f00b23dc5e328fc7c817c9b",
+      "Path": "/DataTable/en-ph/as.scp",
+      "CompressedPath": "/DataTable/en-ph/as.scp.7z"
+    },
+    {
+      "MD5": "5b9f9e01caeb1efa8de34b70ad2ca6d8",
+      "Path": "/DataTable/en-ph/aw.scp",
+      "CompressedPath": "/DataTable/en-ph/aw.scp.7z"
+    },
+    {
+      "MD5": "ae630636e672f101319fa3d6c87caa97",
+      "Path": "/DataTable/en-ph/bf.scp",
+      "CompressedPath": "/DataTable/en-ph/bf.scp.7z"
+    },
+    {
+      "MD5": "cf7808d3e0d9f772bc59cbb95dd8299c",
+      "Path": "/DataTable/en-ph/br.scp",
+      "CompressedPath": "/DataTable/en-ph/br.scp.7z"
+    },
+    {
+      "MD5": "c2dfbdf3b1c8452bafb1cead87493cd3",
+      "Path": "/DataTable/en-ph/bs.scp",
+      "CompressedPath": "/DataTable/en-ph/bs.scp.7z"
+    },
+    {
+      "MD5": "2f87120d21ac8ee60d41aa61122a76a8",
+      "Path": "/DataTable/en-ph/bw.scp",
+      "CompressedPath": "/DataTable/en-ph/bw.scp.7z"
+    },
+    {
+      "MD5": "855f673a55acbbad099ba1b15550b711",
+      "Path": "/DataTable/en-ph/CcrLogo.dat",
+      "CompressedPath": "/DataTable/en-ph/CcrLogo.dat.7z"
+    },
+    {
+      "MD5": "0b5bfe0ac1cbb960612f48cba2518c78",
+      "Path": "/DataTable/en-ph/Cepa.env",
+      "CompressedPath": "/DataTable/en-ph/Cepa.env.7z"
+    },
+    {
+      "MD5": "f3c125192ed0e4f37d81cd8a5207110c",
+      "Path": "/DataTable/en-ph/cf.scp",
+      "CompressedPath": "/DataTable/en-ph/cf.scp.7z"
+    },
+    {
+      "MD5": "1aa14eb2020e21137643b19c9b24ef92",
+      "Path": "/DataTable/en-ph/ChatCommand.ini",
+      "CompressedPath": "/DataTable/en-ph/ChatCommand.ini.7z"
+    },
+    {
+      "MD5": "c66eea781a260415ec570dea142cc720",
+      "Path": "/DataTable/en-ph/cr.scp",
+      "CompressedPath": "/DataTable/en-ph/cr.scp.7z"
+    },
+    {
+      "MD5": "b97ce8d26083a85d27c4ea4e6c0e290e",
+      "Path": "/DataTable/en-ph/cs.scp",
+      "CompressedPath": "/DataTable/en-ph/cs.scp.7z"
+    },
+    {
+      "MD5": "4de35c3e04e446d1737efab7752666fc",
+      "Path": "/DataTable/en-ph/Cspa.txt",
+      "CompressedPath": "/DataTable/en-ph/Cspa.txt.7z"
+    },
+    {
+      "MD5": "897605d3cdeff039673db8c550b11aaf",
+      "Path": "/DataTable/en-ph/cw.scp",
+      "CompressedPath": "/DataTable/en-ph/cw.scp.7z"
+    },
+    {
+      "MD5": "b02c05cabbf1e90ba112a71ea3def792",
+      "Path": "/DataTable/en-ph/Exp.edf",
+      "CompressedPath": "/DataTable/en-ph/Exp.edf.7z"
+    },
+    {
+      "MD5": "ffc71fbb6b98f5a8ccd5d74e1efdeb70",
+      "Path": "/DataTable/en-ph/FG_CB.ini",
+      "CompressedPath": "/DataTable/en-ph/FG_CB.ini.7z"
+    },
+    {
+      "MD5": "d1d7cceb9cd295834ab3211d12564438",
+      "Path": "/DataTable/en-ph/font.ini",
+      "CompressedPath": "/DataTable/en-ph/font.ini.7z"
+    },
+    {
+      "MD5": "24ba4d9f48ee92f1da2ae1fc22933334",
+      "Path": "/DataTable/en-ph/GameData.edf",
+      "CompressedPath": "/DataTable/en-ph/GameData.edf.7z"
+    },
+    {
+      "MD5": "c7dc87fd88cd59af1999655f1ef30292",
+      "Path": "/DataTable/en-ph/Hint.edf",
+      "CompressedPath": "/DataTable/en-ph/Hint.edf.7z"
+    },
+    {
+      "MD5": "520b5160a975a8f0a8c2d81b584bbfc5",
+      "Path": "/DataTable/en-ph/Ipa.dic",
+      "CompressedPath": "/DataTable/en-ph/Ipa.dic.7z"
+    },
+    {
+      "MD5": "d366a50ea03c8325216be58096d7c6d1",
+      "Path": "/DataTable/en-ph/KeyMap.dat",
+      "CompressedPath": "/DataTable/en-ph/KeyMap.dat.7z"
+    },
+    {
+      "MD5": "9aad3c05348c999d074cadd1b8b8385a",
+      "Path": "/DataTable/en-ph/KeyMap_NKM.dat",
+      "CompressedPath": "/DataTable/en-ph/KeyMap_NKM.dat.7z"
+    },
+    {
+      "MD5": "06157c7cc15a5d324160a730b1437cc0",
+      "Path": "/DataTable/en-ph/LauncherMessage.ini",
+      "CompressedPath": "/DataTable/en-ph/LauncherMessage.ini.7z"
+    },
+    {
+      "MD5": "ad9600617151b3f12268da6d6843a97c",
+      "Path": "/DataTable/en-ph/MAPDATA.DAT",
+      "CompressedPath": "/DataTable/en-ph/MAPDATA.DAT.7z"
+    },
+    {
+      "MD5": "5faf945f8e3bd26e5fada3ce1864f1c8",
+      "Path": "/DataTable/en-ph/NDCharacter.edf",
+      "CompressedPath": "/DataTable/en-ph/NDCharacter.edf.7z"
+    },
+    {
+      "MD5": "1343a52bbb3d246a8715f0f00c21b8c7",
+      "Path": "/DataTable/en-ph/NDEventShip.edf",
+      "CompressedPath": "/DataTable/en-ph/NDEventShip.edf.7z"
+    },
+    {
+      "MD5": "d46dc90675240fe083095eb7778265bf",
+      "Path": "/DataTable/en-ph/NDItem.edf",
+      "CompressedPath": "/DataTable/en-ph/NDItem.edf.7z"
+    },
+    {
+      "MD5": "7ceb2e4224a21c60d11dd18e217d75e3",
+      "Path": "/DataTable/en-ph/NDItemCash.edf",
+      "CompressedPath": "/DataTable/en-ph/NDItemCash.edf.7z"
+    },
+    {
+      "MD5": "d9b19fedcf5e8af8d3c3bdc1cc6db15d",
+      "Path": "/DataTable/en-ph/NDLanguage.edf",
+      "CompressedPath": "/DataTable/en-ph/NDLanguage.edf.7z"
+    },
+    {
+      "MD5": "5b53acf7fd89ab17045896fc344e70c4",
+      "Path": "/DataTable/en-ph/NDMap.edf",
+      "CompressedPath": "/DataTable/en-ph/NDMap.edf.7z"
+    },
+    {
+      "MD5": "72c137eaf1a758c1e5d3008bb40d66e8",
+      "Path": "/DataTable/en-ph/NDMsgEvent.edf",
+      "CompressedPath": "/DataTable/en-ph/NDMsgEvent.edf.7z"
+    },
+    {
+      "MD5": "b7e5317e9084cb0b901acb6f078bd73b",
+      "Path": "/DataTable/en-ph/NDMsgMonster.edf",
+      "CompressedPath": "/DataTable/en-ph/NDMsgMonster.edf.7z"
+    },
+    {
+      "MD5": "62928f34ec3266a1bf5186d08405896e",
+      "Path": "/DataTable/en-ph/NDQuest.edf",
+      "CompressedPath": "/DataTable/en-ph/NDQuest.edf.7z"
+    },
+    {
+      "MD5": "9224ce3f1041d29287432d0939a15df7",
+      "Path": "/DataTable/en-ph/NDSkillForce.edf",
+      "CompressedPath": "/DataTable/en-ph/NDSkillForce.edf.7z"
+    },
+    {
+      "MD5": "928e9d2fc1681180a1e6c4f0d0ed2702",
+      "Path": "/DataTable/en-ph/NDStore.edf",
+      "CompressedPath": "/DataTable/en-ph/NDStore.edf.7z"
+    },
+    {
+      "MD5": "712cd2325702f1d079fd1a489632f1be",
+      "Path": "/DataTable/en-ph/PcRoom.edf",
+      "CompressedPath": "/DataTable/en-ph/PcRoom.edf.7z"
+    },
+    {
+      "MD5": "c04f7c3ff1e1fdea8201c587782da9f6",
+      "Path": "/DataTable/en-ph/Player.edf",
+      "CompressedPath": "/DataTable/en-ph/Player.edf.7z"
+    },
+    {
+      "MD5": "7cecea19e21e485b6065634ec827e12a",
+      "Path": "/DataTable/en-ph/RF_WebURL.dat",
+      "CompressedPath": "/DataTable/en-ph/RF_WebURL.dat.7z"
+    },
+    {
+      "MD5": "3a3f5232ae6b1eb7a564079fe779330e",
+      "Path": "/DataTable/en-ph/UIHelp.edf",
+      "CompressedPath": "/DataTable/en-ph/UIHelp.edf.7z"
+    },
+    {
+      "MD5": "b86d1931a3d4921d05129a6554105348",
+      "Path": "/DataTable/en-ph/WORLDMAPDATA.DAT",
+      "CompressedPath": "/DataTable/en-ph/WORLDMAPDATA.DAT.7z"
+    },
+    {
+      "MD5": "f3cdc9553f311cecf2048092d941345d",
+      "Path": "/DataTable/iConfig/enph_font.json",
+      "CompressedPath": "/DataTable/iConfig/enph_font.json.7z"
+    },
+    {
+      "MD5": "e91417a0eda50c2e63fef4b4e8dca532",
+      "Path": "/DataTable/iConfig/R3FieldView.json",
+      "CompressedPath": "/DataTable/iConfig/R3FieldView.json.7z"
+    },
+    {
+      "MD5": "0a545e3f05a96500ee2524a80c20baca",
+      "Path": "/System/mouse/attack.ani",
+      "CompressedPath": "/System/mouse/attack.ani.7z"
+    },
+    {
+      "MD5": "2924fffe4c8b69787467fbff59f60522",
+      "Path": "/System/mouse/basic.ani",
+      "CompressedPath": "/System/mouse/basic.ani.7z"
+    },
+    {
+      "MD5": "36cd2aa4c50b9f301e023299f4c0868d",
+      "Path": "/System/mouse/force.ani",
+      "CompressedPath": "/System/mouse/force.ani.7z"
+    },
+    {
+      "MD5": "8114373c1679f4914dad746b2f146c72",
+      "Path": "/System/mouse/get.ani",
+      "CompressedPath": "/System/mouse/get.ani.7z"
+    },
+    {
+      "MD5": "4a69ba4eb20425dfb5cd45b33ad3cbce",
+      "Path": "/System/mouse/NPC.ani",
+      "CompressedPath": "/System/mouse/NPC.ani.7z"
+    },
+    {
+      "MD5": "bff97a359793e49b7cd3d6a22e8c37e4",
+      "Path": "/System/mouse/samerace.ani",
+      "CompressedPath": "/System/mouse/samerace.ani.7z"
+    },
+    {
+      "MD5": "fe1def72e16bb3753526900487179ddf",
+      "Path": "/System/mouse/skill.ani",
+      "CompressedPath": "/System/mouse/skill.ani.7z"
+    },
+    {
+      "MD5": "8c41a5e9e5a1bb6e4fdfdcb3bc8d20a8",
+      "Path": "/System/Shader/BlurBlit.nvp",
+      "CompressedPath": "/System/Shader/BlurBlit.nvp.7z"
+    },
+    {
+      "MD5": "a9b3b9b50a77cddaa47fb75e35896885",
+      "Path": "/System/Shader/BlurBlit.pso",
+      "CompressedPath": "/System/Shader/BlurBlit.pso.7z"
+    },
+    {
+      "MD5": "9d24f6b25516c7711e1b5ea1a5037269",
+      "Path": "/System/Shader/FilterBlit.nvv",
+      "CompressedPath": "/System/Shader/FilterBlit.nvv.7z"
+    },
+    {
+      "MD5": "c5e538b12a247bc74e124fec7250fa31",
+      "Path": "/System/Shader/FilterBlit.vso",
+      "CompressedPath": "/System/Shader/FilterBlit.vso.7z"
+    },
+    {
+      "MD5": "fbc8b707bc12c0788ac2c913e12a30c4",
+      "Path": "/System/Shader/Grass1.vsh",
+      "CompressedPath": "/System/Shader/Grass1.vsh.7z"
+    },
+    {
+      "MD5": "ef6399568328fcf0082d4f613ac51c23",
+      "Path": "/System/Shader/grass1.vso",
+      "CompressedPath": "/System/Shader/grass1.vso.7z"
+    },
+    {
+      "MD5": "f25f071bf7ffaf614107e7937623c0e6",
+      "Path": "/System/Shader/init.r3o",
+      "CompressedPath": "/System/Shader/init.r3o.7z"
+    },
+    {
+      "MD5": "1e9cd573fcd00b05ec91c30591cb5c69",
+      "Path": "/System/Shader/LitGrass1.vsh",
+      "CompressedPath": "/System/Shader/LitGrass1.vsh.7z"
+    },
+    {
+      "MD5": "3c002a5194451ded14a94d824cdefcf3",
+      "Path": "/System/Shader/LitGrass1.vso",
+      "CompressedPath": "/System/Shader/LitGrass1.vso.7z"
+    },
+    {
+      "MD5": "ff5edfe7156e9b38b447eb3bcb33f4a7",
+      "Path": "/System/Shader/pFraction.sho",
+      "CompressedPath": "/System/Shader/pFraction.sho.7z"
+    },
+    {
+      "MD5": "0e5d4d7640293ce2c10e570b9b5e358a",
+      "Path": "/System/Shader/pPlazma.sho",
+      "CompressedPath": "/System/Shader/pPlazma.sho.7z"
+    },
+    {
+      "MD5": "e6cffcbac9cbfe788395c9cc75a7dfe5",
+      "Path": "/System/Shader/Reflection.vsh",
+      "CompressedPath": "/System/Shader/Reflection.vsh.7z"
+    },
+    {
+      "MD5": "338ac497cfe598472fc880ffd0af4e16",
+      "Path": "/System/Shader/Reflection.vso",
+      "CompressedPath": "/System/Shader/Reflection.vso.7z"
+    },
+    {
+      "MD5": "326a2d144439fb8d51a24690bcc43d27",
+      "Path": "/System/Shader/Scatter.vsh",
+      "CompressedPath": "/System/Shader/Scatter.vsh.7z"
+    },
+    {
+      "MD5": "7d1382f7213a774800653c408658524c",
+      "Path": "/System/Shader/Scatter.vso",
+      "CompressedPath": "/System/Shader/Scatter.vso.7z"
+    },
+    {
+      "MD5": "87b3f321a72a1eb3f1cd8f3505ac11f3",
+      "Path": "/System/Shader/sh_basic.sho",
+      "CompressedPath": "/System/Shader/sh_basic.sho.7z"
+    },
+    {
+      "MD5": "c5fcf343739699990cee1276f5610ccf",
+      "Path": "/System/Shader/sh_basic_alpha.sho",
+      "CompressedPath": "/System/Shader/sh_basic_alpha.sho.7z"
+    },
+    {
+      "MD5": "2b6d2d30497c8a287157fd2cdffde9a2",
+      "Path": "/System/Shader/sh_basic_bump.sho",
+      "CompressedPath": "/System/Shader/sh_basic_bump.sho.7z"
+    },
+    {
+      "MD5": "02b1349f9a99c21553b6a72d8cace81c",
+      "Path": "/System/Shader/sh_basic_BumpEffect.sho",
+      "CompressedPath": "/System/Shader/sh_basic_BumpEffect.sho.7z"
+    },
+    {
+      "MD5": "c7b461d887aaf1c4dcddc0560486b9a0",
+      "Path": "/System/Shader/sh_basic_DScroll.sho",
+      "CompressedPath": "/System/Shader/sh_basic_DScroll.sho.7z"
+    },
+    {
+      "MD5": "6a844f92ea224c2f46532f333f6abcfc",
+      "Path": "/System/Shader/sh_basic_eff.sho",
+      "CompressedPath": "/System/Shader/sh_basic_eff.sho.7z"
+    },
+    {
+      "MD5": "bcc5ac65845e3dc84d786911e73cd021",
+      "Path": "/System/Shader/sh_basic_EnvScroll.sho",
+      "CompressedPath": "/System/Shader/sh_basic_EnvScroll.sho.7z"
+    },
+    {
+      "MD5": "2dc964966726a7ea6880aef9fb73ee4b",
+      "Path": "/System/Shader/sh_basic_GradeEffect.sho",
+      "CompressedPath": "/System/Shader/sh_basic_GradeEffect.sho.7z"
+    },
+    {
+      "MD5": "e4aa7416fee5c9128432c504d29c657a",
+      "Path": "/System/Shader/sh_basic_GradeEnvEffect.sho",
+      "CompressedPath": "/System/Shader/sh_basic_GradeEnvEffect.sho.7z"
+    },
+    {
+      "MD5": "702b9d5db3b774ca491c30a7217e0e65",
+      "Path": "/System/Shader/sh_basic_Scroll.sho",
+      "CompressedPath": "/System/Shader/sh_basic_Scroll.sho.7z"
+    },
+    {
+      "MD5": "ef33f838272c0689ac8f5ed62708b4d0",
+      "Path": "/System/Shader/sh_normal.sho",
+      "CompressedPath": "/System/Shader/sh_normal.sho.7z"
+    },
+    {
+      "MD5": "8df8149a78e8f636cdecbb093f136dfb",
+      "Path": "/System/Shader/sh_norm_spec.sho",
+      "CompressedPath": "/System/Shader/sh_norm_spec.sho.7z"
+    },
+    {
+      "MD5": "e601f7a5b1c25501deec410e8c970d63",
+      "Path": "/System/Shader/sh_Shadow.sho",
+      "CompressedPath": "/System/Shader/sh_Shadow.sho.7z"
+    },
+    {
+      "MD5": "34cd9feae4bfdaa6a4d5125f54d5577e",
+      "Path": "/System/Shader/transition.psh",
+      "CompressedPath": "/System/Shader/transition.psh.7z"
+    },
+    {
+      "MD5": "a722cbeec6dbf36b34e0fcddf667781d",
+      "Path": "/System/Shader/transition.pso",
+      "CompressedPath": "/System/Shader/transition.pso.7z"
+    },
+    {
+      "MD5": "bb7ef668fe43ae96290b2400471a55bc",
+      "Path": "/System/Shader/transition.vsh",
+      "CompressedPath": "/System/Shader/transition.vsh.7z"
+    },
+    {
+      "MD5": "311d8a5cccda64341c9d159ceaf32cf3",
+      "Path": "/System/Shader/transition.vso",
+      "CompressedPath": "/System/Shader/transition.vso.7z"
+    },
+    {
+      "MD5": "9e6d46780623d646482a2469a3d2ffc9",
+      "Path": "/System/Shader/vFraction.sho",
+      "CompressedPath": "/System/Shader/vFraction.sho.7z"
+    },
+    {
+      "MD5": "a8f5e47535dc717b4aee364763b6b8d1",
+      "Path": "/System/Shader/vPlazma.sho",
+      "CompressedPath": "/System/Shader/vPlazma.sho.7z"
+    }
+  ]
+}
