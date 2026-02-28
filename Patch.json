@@ -1,4 +1,10 @@
 {
+  "Version": "2.0.0.1",
+  "ClientIntegrity": {
+    "ClientPath": "RF_Online.bin",
+    "SHA256": "9598e3a62fee433a1ce386018eb18d83e205140aaa5034e8de2ec5c42e1da4e0",
+    "BlockOnMismatch": true
+  },
   "Version": "2.0.0.2",
   "Files": [
     {
