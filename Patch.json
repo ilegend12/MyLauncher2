@@ -1,793 +1,1436 @@
 {
   "Version": "2.0.0.1",
-  "ClientIntegrity": {
-    "ClientPath": "RF_Online.bin",
-    "SHA256": "9598e3a62fee433a1ce386018eb18d83e205140aaa5034e8de2ec5c42e1da4e0",
-    "BlockOnMismatch": true
-  },
-  "Version": "2.0.0.2",
   "Files": [
     {
+      "SHA256": "e26cce1d971642563a56acd1146297e773a8a8a9aeab9038984ab88c40c889c6",
       "MD5": "4bb01d011444fbde3f2e6ee44de732f7",
       "Path": "/ABuse.dll",
       "CompressedPath": "/ABuse.dll.7z"
     },
     {
+      "SHA256": "8c9bc0a339322a58d06ab1cd5063c62b8aeec426117b1eaa02dfec09ef9a963c",
       "MD5": "2aeec421dcff894a8e4c8c74af792911",
       "Path": "/ACDC.dat",
       "CompressedPath": "/ACDC.dat.7z"
     },
     {
+      "SHA256": "e5b9649a444e8f08b540af83b195c3e97397e8ee2f7b301fb30d1ff2dff9fff1",
       "MD5": "0fc6ad4d7822ca186ce37e29c2692d43",
       "Path": "/ACDD.idx",
       "CompressedPath": "/ACDD.idx.7z"
     },
     {
+      "SHA256": "0cc38858e8575a93f360baaac7ac6da8f9ac4ae5fa5a4e15d13ba42cd72c3f36",
       "MD5": "d702219c64fa63a9e2ce59367db39442",
       "Path": "/Adv.dll",
       "CompressedPath": "/Adv.dll.7z"
     },
     {
+      "SHA256": "0a05f34345d3931201c85f08a9d7d78fcb7b552e5719e02796c908c386717eee",
       "MD5": "1bd5b95ce9c253cf624b80b95fe24755",
       "Path": "/AOP.strs",
       "CompressedPath": "/AOP.strs.7z"
     },
     {
+      "SHA256": "c415518e506f6234794af4630dfeaa933898397fc436da57428cf6ed8dc13749",
       "MD5": "d82018bf999568e0bd99db16dd2b135a",
       "Path": "/cltax.xmf",
       "CompressedPath": "/cltax.xmf.7z"
     },
     {
+      "SHA256": "84e123fa868ab4b3baa8875b9ca62224c61341446fd970b2b3fdceb8f4a27b05",
       "MD5": "1364dfb2ebacb045aa40a8d0f8707805",
       "Path": "/d3dx9.dll",
       "CompressedPath": "/d3dx9.dll.7z"
     },
     {
+      "SHA256": "e96693794daa05a75a83c11df2e7b42f2de61567c6ad0b69e353b50f6c88119f",
       "MD5": "26af232140c88b42d92a88f2198edf6a",
       "Path": "/d3dx9_32.dll",
       "CompressedPath": "/d3dx9_32.dll.7z"
     },
     {
+      "SHA256": "b6f77f06518d35345fb61172b6a13159125ed60c469d28b1a2e07970e9ddf81d",
       "MD5": "1ca939918ed1b930059b3a882de6f648",
       "Path": "/d3dx9_34.dll",
       "CompressedPath": "/d3dx9_34.dll.7z"
     },
     {
+      "SHA256": "c12f0ab0338eb5031d3d04beaf7208ac848f7e037d21ff963d2af90221cbe935",
       "MD5": "44bfec5c9c82a2ee9871d88fd3b9a0e2",
       "Path": "/d3dx9_36.dll",
       "CompressedPath": "/d3dx9_36.dll.7z"
     },
     {
+      "SHA256": "c02174d3bd9910c42b3374a229575f9ef70d4a878b6e1c851721afcc8b1cce6b",
       "MD5": "6757dc5dc689d672e0d59b69b256a6c0",
       "Path": "/DATedit.exe",
       "CompressedPath": "/DATedit.exe.7z"
     },
     {
+      "SHA256": "21d573ba3b4afaac6a1a49573d921a88f809dc0daa5c857661beb689b8654ef6",
       "MD5": "463427a8129bf4bcee6fd9f1a115814e",
       "Path": "/dbghelp.dll",
       "CompressedPath": "/dbghelp.dll.7z"
     },
     {
+      "SHA256": "46daa93a4e96dcc3b12bc98de2d937c7f98ab914d3da51d123e9798c7c1fb23d",
       "MD5": "b203b87260eb5e2eb255fccd1a398e05",
       "Path": "/dlctemp.db",
       "CompressedPath": "/dlctemp.db.7z"
     },
     {
+      "SHA256": "e48a60008084e4acfa1b55d9eba72774df2528a3b8e977c8ceeb6c388420161c",
       "MD5": "09e48836bb3a91e01bd8842347e62b07",
       "Path": "/Encryptor.exe",
       "CompressedPath": "/Encryptor.exe.7z"
     },
     {
+      "SHA256": "ec4a4d8fee440eb7fc0717854b8372da450d6f50088b9b4deec9d776bfc0d584",
       "MD5": "e480123224a05f69597c9dbff69f612e",
       "Path": "/GameGuard.des",
       "CompressedPath": "/GameGuard.des.7z"
     },
     {
+      "SHA256": "407a6756140fe8429ef49c231b40448f3eaf2002dbbfa44e4debedccfa2c0917",
       "MD5": "991c1ea7808779cdae603a2b3131a65e",
       "Path": "/iCoreClient.dll",
       "CompressedPath": "/iCoreClient.dll.7z"
     },
     {
+      "SHA256": "859e749b7fd516df6e8a31aa32f32c2c4ece97e846cb2f1f2be5406fae9d7cd0",
       "MD5": "63b03e8a6c5fd2baedd32af00a4684d9",
       "Path": "/Launcher.enc",
       "CompressedPath": "/Launcher.enc.7z"
     },
     {
+      "SHA256": "03759d4a942f6848e29d8b0cc56e362d0ff28b37dfa4351f1790d62767832041",
       "MD5": "1bb7db39d984534bbff9c730ccda0cea",
       "Path": "/Launcher.exe",
       "CompressedPath": "/Launcher.exe.7z"
     },
     {
+      "SHA256": "0740057e486415735b1fbdbda15d4696e225b09d94400a7945ebd71ccaa09f92",
       "MD5": "6175090c6b5b1816f0834f94fbefe1e7",
       "Path": "/Launcher.ini",
       "CompressedPath": "/Launcher.ini.7z"
     },
     {
+      "SHA256": "0a83d543cfc6ec06cae06e45e714acbd484162f79f7ef5f30ce8917cfb6b9caa",
       "MD5": "877f7916f1c8d2f54ff8888c835dc48e",
       "Path": "/Launcher.xml",
       "CompressedPath": "/Launcher.xml.7z"
     },
     {
+      "SHA256": "441b290e7dc6334eb5023cd9b7937739298fdd66c104d4c96e5edcf642ae912d",
       "MD5": "6400e224b8b44ece59a992e6d8233719",
       "Path": "/MSS32.DLL",
       "CompressedPath": "/MSS32.DLL.7z"
     },
     {
+      "SHA256": "121be91fd21c80396cb5cc46c245d9b3f67a26f8cec4d0ebd03f17cd13508b0d",
       "MD5": "189576dfe55af3b70db7e3e2312cd0fd",
       "Path": "/mssmp3.asi",
       "CompressedPath": "/mssmp3.asi.7z"
     },
     {
+      "SHA256": "f0c07af0e84d4dd4da4bd7823ba4535bc0481b3bf623ed40b659b68147a6bb75",
+      "MD5": "24704261e701b49b51e40c1292ed149e",
+      "Path": "/Newtonsoft.Json.dll",
+      "CompressedPath": "/Newtonsoft.Json.dll.7z"
+    },
+    {
+      "SHA256": "a9c6be122c118de22c72f9f9e5d9ef787492d24ad91d2c9c23b8d1f0e5f2ef3c",
+      "MD5": "93b7c648a3d6ae4a25fb115482afcf2c",
+      "Path": "/Newtonsoft.Json.xml",
+      "CompressedPath": "/Newtonsoft.Json.xml.7z"
+    },
+    {
+      "SHA256": "61a9624959dba54cb176bb3cd124a4f6864af3f494c11c2abe252752dcf221e8",
+      "MD5": "de55f2e9583e2a442f1eb926cfcc3a46",
+      "Path": "/patch.cache",
+      "CompressedPath": "/patch.cache.7z"
+    },
+    {
+      "SHA256": "d9639b727ebdd6cb0780bf6be8f705d9ed9fbb36f422e4177cbb442adc879bde",
       "MD5": "0a806af0f095ce651bf7e69f3aab5807",
       "Path": "/PDLL.dll",
       "CompressedPath": "/PDLL.dll.7z"
     },
     {
+      "SHA256": "95a55e1d45d7eb27f7d7c80eca33a91de878a10d904225e415a6cdff198ca666",
       "MD5": "3411eaa37eadd7818678f4b40ebba9d2",
       "Path": "/PurifierA.dll",
       "CompressedPath": "/PurifierA.dll.7z"
     },
     {
+      "SHA256": "746ce465290dbb688490378dc84bac375cbfb9b19865802af06db412c329569e",
       "MD5": "3ea7444df1b0755d84c204eac532564c",
       "Path": "/R3Engine.ini",
       "CompressedPath": "/R3Engine.ini.7z"
     },
     {
+      "SHA256": "8f0164d3aa30c1555a537afee55aabe996f35d8a521f6272243d1161aa74ffa3",
       "MD5": "76870bab83b69694407ac7982e428e61",
       "Path": "/rdmex.dll",
       "CompressedPath": "/rdmex.dll.7z"
     },
     {
+      "SHA256": "40265732d37c62c94aa1e78844110b990a13cc187676795b50d979f47ce5ce32",
+      "MD5": "ccc6b4114bcc0a2c750eb51698d81b6a",
+      "Path": "/RF.exe",
+      "CompressedPath": "/RF.exe.7z"
+    },
+    {
+      "SHA256": "16286566d54d81c3721f7ecf7f426d965de364e9be2f9e628d7363b684b6fe6a",
+      "MD5": "13ff21470b63470978e08e4933eb8e56",
+      "Path": "/RF.exe.config",
+      "CompressedPath": "/RF.exe.config.7z"
+    },
+    {
+      "SHA256": "85d65dffd446183e5a74379aa9ed5ceb5e5e33e83ebb55543276a6b9267619dc",
+      "MD5": "592e3e8fe9e89cd2a1054d3baa23cde5",
+      "Path": "/RF.pdb",
+      "CompressedPath": "/RF.pdb.7z"
+    },
+    {
+      "SHA256": "b7598caad51b333ad046678b3102a14d24df9cd9280cee47721c2f5d97539e00",
       "MD5": "66d0279847af497cedf30286bc56643f",
       "Path": "/RF_Online - Copy.bin",
       "CompressedPath": "/RF_Online - Copy.bin.7z"
     },
     {
+      "SHA256": "9598e3a62fee433a1ce386018eb18d83e205140aaa5034e8de2ec5c42e1da4e0",
       "MD5": "eb657928a96923172db19e29eaca8b6c",
       "Path": "/RF_Online.bin",
       "CompressedPath": "/RF_Online.bin.7z"
     },
     {
+      "SHA256": "4e45244f6cc318820a77e33b7342edd15008c723f825151ec48e1f0c4e071086",
       "MD5": "7f0b61173d33fb43398c106d534fd084",
       "Path": "/sl.dat",
       "CompressedPath": "/sl.dat.7z"
     },
     {
+      "SHA256": "19dc4aa23c3af75f78ed391f7256f3d442d634f93ed7fe6d10dddbaea4a2baff",
       "MD5": "b0251a292dc55417cc893d0abb735094",
       "Path": "/StringLoaderA.dll",
       "CompressedPath": "/StringLoaderA.dll.7z"
     },
     {
+      "SHA256": "5213c9ab1639dccc6d7189266e7773fc000fe116cae857468f792263f6c41392",
       "MD5": "c890b56495e8a9e9b72389f5eef9997a",
       "Path": "/TcX2G.dll",
       "CompressedPath": "/TcX2G.dll.7z"
     },
     {
+      "SHA256": "52b0bd1cbda6a7ff9c7a5611cc40013adfc07b36c371c9360f132693c3054fcf",
       "MD5": "89a2c73cae785fe0ab70778cd09f2675",
       "Path": "/Updater.lc",
       "CompressedPath": "/Updater.lc.7z"
     },
     {
+      "SHA256": "91d1944d68c15cd36376f4f13b9cdb91c80ab450b96a482a0e39b8a7677e3824",
       "MD5": "997e3dcf24e2df2fe786b702285af600",
       "Path": "/Website.url",
       "CompressedPath": "/Website.url.7z"
     },
     {
+      "SHA256": "97a07462dc02513f0dac9c16cc9a1e064ed59ec0302a84e0cc22425284ef153a",
       "MD5": "107cc57a78afccaf27ddf69780a6b341",
       "Path": "/X2PMgr.dll",
       "CompressedPath": "/X2PMgr.dll.7z"
     },
     {
+      "SHA256": "ca6bd3fac56f7da25456235ea8f06c4b4dd2883b58b8290a58d2ef753db002ce",
       "MD5": "2136051a2bbe6c07abb852a5be48d748",
       "Path": "/x2prm.sys",
       "CompressedPath": "/x2prm.sys.7z"
     },
     {
+      "SHA256": "551a5cfcc95992972c00de6ba36a7a92dcb65f035e102d5af9335c55ce6ac1be",
       "MD5": "2fc029aef675b5e559faa93c0b2f8ff9",
       "Path": "/x2prm2.sys",
       "CompressedPath": "/x2prm2.sys.7z"
     },
     {
+      "SHA256": "f4f2cde0fe581ff8f6b221be7654c0eed854df25b766ab888a7a4bd016315e1d",
       "MD5": "2bdf14ae36ae102d7d2d5bdd07730cbf",
       "Path": "/X2ProcMon.dll",
       "CompressedPath": "/X2ProcMon.dll.7z"
     },
     {
+      "SHA256": "861049a7b6d9bd91f42899a5c9273eeb17b8084346973c89f1573f2adc065f75",
       "MD5": "b364b5f0b86340de73c393749d388d2b",
       "Path": "/X2PU.dll",
       "CompressedPath": "/X2PU.dll.7z"
     },
     {
+      "SHA256": "c633371739cb078bc444fb4981a23ec276691908d5201cde5bb29134703f07af",
       "MD5": "45c67be969d1a0ebad0d8e8333f9f89e",
       "Path": "/X2ReportDll.dll",
       "CompressedPath": "/X2ReportDll.dll.7z"
     },
     {
+      "SHA256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
       "MD5": "f1d3ff8443297732862df21dc4e57262",
       "Path": "/DataTable/BlockData.dat",
       "CompressedPath": "/DataTable/BlockData.dat.7z"
     },
     {
+      "SHA256": "44ea79852d750f6a3d452b47c69308e512e8a9d2f7663ff87d79eb25539ac7ab",
       "MD5": "6a8004efc3c4f95881d2e23136a6133f",
       "Path": "/DataTable/Character.edf",
       "CompressedPath": "/DataTable/Character.edf.7z"
     },
     {
+      "SHA256": "4d5737e4ad3a210aa6c072b13b69e5cd9375c93479e2e5e07f300660f89edb1c",
       "MD5": "a206b15ba5d88cca1cacacbd481cf3e0",
       "Path": "/DataTable/clientdb.dat",
       "CompressedPath": "/DataTable/clientdb.dat.7z"
     },
     {
+      "SHA256": "19a72bce1393be8bb1e3b86516f98dd27d3a3e245c317b232cc45276b6464d0f",
       "MD5": "f3cdc9553f311cecf2048092d941345d",
       "Path": "/DataTable/enph_font.json",
       "CompressedPath": "/DataTable/enph_font.json.7z"
     },
     {
+      "SHA256": "ee82e0cdae842cfae2daff5cee181beb2dde93badde9b7117361db13734efd38",
       "MD5": "6457c088f8e8a3b6eb830680593041d6",
       "Path": "/DataTable/EventShip.edf",
       "CompressedPath": "/DataTable/EventShip.edf.7z"
     },
     {
+      "SHA256": "24eab4387f00558cf9ec2253780e663efe91b1c1b3dd08ea3f090efaed7b55c6",
       "MD5": "6c5cf0edb5901e658e4331766cbda3a7",
       "Path": "/DataTable/GameSetting.ini",
       "CompressedPath": "/DataTable/GameSetting.ini.7z"
     },
     {
+      "SHA256": "8d6b3f324f8298b596462ecedd7a0893e2facd02e08b5d332f3c5e25541dba68",
       "MD5": "5d8b770c75d2a2ad663240828d295ab0",
       "Path": "/DataTable/Item.edf",
       "CompressedPath": "/DataTable/Item.edf.7z"
     },
     {
+      "SHA256": "a0835f75a2aa7778e1472fb31e7836c2ecd0851ef9ab0ce2e40c70b0397d56ac",
       "MD5": "8e56783be0a27d023de89c1f96be619b",
       "Path": "/DataTable/ItemCash.edf",
       "CompressedPath": "/DataTable/ItemCash.edf.7z"
     },
     {
+      "SHA256": "24b0ba40a7a90f764b67f83d6d061992d827efd09083d604ea3cd8b905a6a638",
       "MD5": "38d6050c588812af1e74b3f968b6405f",
       "Path": "/DataTable/ItemCombine.edf",
       "CompressedPath": "/DataTable/ItemCombine.edf.7z"
     },
     {
+      "SHA256": "172a32090d0e5a01a0ba71594b7eae0a08c2e9bf5bf77338cd15c73185e9bd51",
       "MD5": "c13449ba4e58d547dc2e868ef82d62ea",
       "Path": "/DataTable/ItemPremium.edf",
       "CompressedPath": "/DataTable/ItemPremium.edf.7z"
     },
     {
+      "SHA256": "932aec28b1292a874160202528e7c19cc062f34011ff09d05ecddd442ac7dd35",
       "MD5": "ba1bba62ddd993e7f8a2b8819171a758",
       "Path": "/DataTable/ItemSetEffect.edf",
       "CompressedPath": "/DataTable/ItemSetEffect.edf.7z"
     },
     {
+      "SHA256": "2a1ba48a8b34d6d2d59e61f8cc335cf3dd33f0fad642a41040f9a48035b86289",
       "MD5": "0ccb7d7f27271217670bebc7e13a9f14",
       "Path": "/DataTable/ItemTimer.edf",
       "CompressedPath": "/DataTable/ItemTimer.edf.7z"
     },
     {
+      "SHA256": "13fc731f3387b58624d3dca22c79ecaee46950df446ff7f855790bd475886d27",
       "MD5": "d8a8d6abd3c554f482dbdf828d9335d8",
       "Path": "/DataTable/Map.edf",
       "CompressedPath": "/DataTable/Map.edf.7z"
     },
     {
+      "SHA256": "ef5dcc867a3420cb3d49d4fd12d51ca3a669fd7790daf595282ea38c74d7af94",
       "MD5": "cb78fc1f43c298a2a7f5238ab20c3ee0",
       "Path": "/DataTable/MsgEvent.edf",
       "CompressedPath": "/DataTable/MsgEvent.edf.7z"
     },
     {
+      "SHA256": "04148a7be25434d717d89a513e73679e520e7bc528783210b833a094e14d537c",
       "MD5": "cd675f0ed9bc37ccf516451d4fd28dfd",
       "Path": "/DataTable/PlayerCharacter.edf",
       "CompressedPath": "/DataTable/PlayerCharacter.edf.7z"
     },
     {
+      "SHA256": "cd4e67ca89c56494121b2797eeb39d2b989f658894e48d235598d006a70774ca",
       "MD5": "be366447ff2fb506b9c0852c33320f8c",
       "Path": "/DataTable/Quest.edf",
       "CompressedPath": "/DataTable/Quest.edf.7z"
     },
     {
+      "SHA256": "4d34ee7af99f1b57040b470a840e92e36b5216d2eba001123ddab6fc0241b2a3",
       "MD5": "f6a517acee5788c6612348fbedd2ec42",
       "Path": "/DataTable/Resource.edf",
       "CompressedPath": "/DataTable/Resource.edf.7z"
     },
     {
+      "SHA256": "5e4a66116fe188349284be07c26233ebef07a7af6375adb6a8e6426edbc4d523",
       "MD5": "cad4e2a5fe0dce790e6f9414ec7e9543",
       "Path": "/DataTable/SkillForce.edf",
       "CompressedPath": "/DataTable/SkillForce.edf.7z"
     },
     {
+      "SHA256": "09b6a90bbab9fa159271d4bb64afa1400cb51a4da1826665b64c44295af331d9",
       "MD5": "e22906e69b485eccb4501931d429e234",
       "Path": "/DataTable/Store.edf",
       "CompressedPath": "/DataTable/Store.edf.7z"
     },
     {
-      "MD5": "ec3e979226fca4ed9b431b12f68fc1dd",
-      "Path": "/System/010.TTF",
-      "CompressedPath": "/System/010.TTF.7z"
-    },
-    {
-      "MD5": "f93bc46c28b9ab64a0edc428bcf8b6a9",
-      "Path": "/System/ccrlogo.dds",
-      "CompressedPath": "/System/ccrlogo.dds.7z"
-    },
-    {
-      "MD5": "a5825e1afa1505cc87ef6e53b4fe592c",
-      "Path": "/System/console.jpg",
-      "CompressedPath": "/System/console.jpg.7z"
-    },
-    {
-      "MD5": "99268e1ba0300a448dd2e054295deaca",
-      "Path": "/System/default.cfg",
-      "CompressedPath": "/System/default.cfg.7z"
-    },
-    {
-      "MD5": "34ff9c58f656ec3bda8c56e64be814ba",
-      "Path": "/System/DefaultSet.tmp",
-      "CompressedPath": "/System/DefaultSet.tmp.7z"
-    },
-    {
-      "MD5": "db5b44ed7bd0b6414f771b25292d7e43",
-      "Path": "/System/DeleteFileList.txt",
-      "CompressedPath": "/System/DeleteFileList.txt.7z"
-    },
-    {
-      "MD5": "04a5b750e2b59c98664c7faef8693952",
-      "Path": "/System/FileData.z",
-      "CompressedPath": "/System/FileData.z.7z"
-    },
-    {
-      "MD5": "aaa333bcd8d7feb461824dc35675fa33",
-      "Path": "/System/idll.rdt",
-      "CompressedPath": "/System/idll.rdt.7z"
-    },
-    {
-      "MD5": "13d081c58e90c363d9240cb052a29d68",
-      "Path": "/System/rfoemf.dat",
-      "CompressedPath": "/System/rfoemf.dat.7z"
-    },
-    {
-      "MD5": "2ba46b09da21622bd318cc029a9da0c9",
-      "Path": "/System/staff.txt",
-      "CompressedPath": "/System/staff.txt.7z"
-    },
-    {
-      "MD5": "dc950c90bae89444e44bd985d5bae94f",
-      "Path": "/System/sun.dds",
-      "CompressedPath": "/System/sun.dds.7z"
-    },
-    {
-      "MD5": "e6b15e5062d0591729e3765d335b1039",
-      "Path": "/System/titlelogo.tga",
-      "CompressedPath": "/System/titlelogo.tga.7z"
-    },
-    {
-      "MD5": "e0d95f1be0d44d02fae0ee6778d5cdb7",
-      "Path": "/System/titlelogocn.tga",
-      "CompressedPath": "/System/titlelogocn.tga.7z"
-    },
-    {
-      "MD5": "4c69118744ea89dab844e5305fecca4f",
-      "Path": "/System/uifont.ttf",
-      "CompressedPath": "/System/uifont.ttf.7z"
-    },
-    {
+      "SHA256": "1c005afde64e42044c8783091dfcb206cb7611f917c777c75d231f0d8d740c22",
       "MD5": "8076ec4fea9b79f7e1a2014fd0fa5e8d",
       "Path": "/DataTable/en-ph/Apa.dic",
       "CompressedPath": "/DataTable/en-ph/Apa.dic.7z"
     },
     {
+      "SHA256": "7c56fdb1da20c1370f90cb6b6d384ab6aaeb39ceed55e5c69c75d5d12d7411e9",
       "MD5": "c939bcc9e03e66ba64bb733faa5eb7cd",
       "Path": "/DataTable/en-ph/ar.scp",
       "CompressedPath": "/DataTable/en-ph/ar.scp.7z"
     },
     {
+      "SHA256": "2ae575bcf59b206abeffd49bfb0e75978a4174ae88e51ce366918ce2665d1f21",
       "MD5": "66dca7924f00b23dc5e328fc7c817c9b",
       "Path": "/DataTable/en-ph/as.scp",
       "CompressedPath": "/DataTable/en-ph/as.scp.7z"
     },
     {
+      "SHA256": "68257a2dab191738bf904ca0bc0bb58c2cae899cbe7f6241af758000efc84338",
       "MD5": "5b9f9e01caeb1efa8de34b70ad2ca6d8",
       "Path": "/DataTable/en-ph/aw.scp",
       "CompressedPath": "/DataTable/en-ph/aw.scp.7z"
     },
     {
+      "SHA256": "0cb64161190bbff1ffcca20934f656f02b0a62d0b571ab661d6a59681874d1ea",
       "MD5": "ae630636e672f101319fa3d6c87caa97",
       "Path": "/DataTable/en-ph/bf.scp",
       "CompressedPath": "/DataTable/en-ph/bf.scp.7z"
     },
     {
+      "SHA256": "eb2c0bf6a9dd12a25e1762f763cb16e9a7875549647410649ddf1d860879155a",
       "MD5": "cf7808d3e0d9f772bc59cbb95dd8299c",
       "Path": "/DataTable/en-ph/br.scp",
       "CompressedPath": "/DataTable/en-ph/br.scp.7z"
     },
     {
+      "SHA256": "1eb908ad5d79a3760f119f697e320b795950317d5d7034a9087a54114ff19ad4",
       "MD5": "c2dfbdf3b1c8452bafb1cead87493cd3",
       "Path": "/DataTable/en-ph/bs.scp",
       "CompressedPath": "/DataTable/en-ph/bs.scp.7z"
     },
     {
+      "SHA256": "1a6066976d9ab58ff849f96b741c3693e6b4da2377bf4f587cceae5f2015184c",
       "MD5": "2f87120d21ac8ee60d41aa61122a76a8",
       "Path": "/DataTable/en-ph/bw.scp",
       "CompressedPath": "/DataTable/en-ph/bw.scp.7z"
     },
     {
+      "SHA256": "401fbf9eb13b805eb72c8e1df15e7b19e019ce98ed2472ce12b5a6e70ca14a7e",
       "MD5": "855f673a55acbbad099ba1b15550b711",
       "Path": "/DataTable/en-ph/CcrLogo.dat",
       "CompressedPath": "/DataTable/en-ph/CcrLogo.dat.7z"
     },
     {
+      "SHA256": "fe6890203f497eda5e245a5cd14bb57892615550917907a496852ee40868c99a",
       "MD5": "0b5bfe0ac1cbb960612f48cba2518c78",
       "Path": "/DataTable/en-ph/Cepa.env",
       "CompressedPath": "/DataTable/en-ph/Cepa.env.7z"
     },
     {
+      "SHA256": "71ecb98d3943d2dabe477c3f3c59fde352d1c4c12ed5700feb458b1a1bd482be",
       "MD5": "f3c125192ed0e4f37d81cd8a5207110c",
       "Path": "/DataTable/en-ph/cf.scp",
       "CompressedPath": "/DataTable/en-ph/cf.scp.7z"
     },
     {
+      "SHA256": "d80154ff9d1b709690309512c8d8f9f4641c0c9dd8cf0817bce3e8c560a9c1fe",
       "MD5": "1aa14eb2020e21137643b19c9b24ef92",
       "Path": "/DataTable/en-ph/ChatCommand.ini",
       "CompressedPath": "/DataTable/en-ph/ChatCommand.ini.7z"
     },
     {
+      "SHA256": "d56f50c41e6a1b08c17f77b70b738b894340aeaa5c0b3da91b68934f112abf3b",
       "MD5": "c66eea781a260415ec570dea142cc720",
       "Path": "/DataTable/en-ph/cr.scp",
       "CompressedPath": "/DataTable/en-ph/cr.scp.7z"
     },
     {
+      "SHA256": "67247c2f3fa4c04e8f6dd1f9dfeceffec49ee4f88fe10526a37a1279522fb40f",
       "MD5": "b97ce8d26083a85d27c4ea4e6c0e290e",
       "Path": "/DataTable/en-ph/cs.scp",
       "CompressedPath": "/DataTable/en-ph/cs.scp.7z"
     },
     {
+      "SHA256": "3bd7e0a5c5d32f2fc2b64e514ae940f83c534dd66b8e46266bb0954cb4b319bf",
       "MD5": "4de35c3e04e446d1737efab7752666fc",
       "Path": "/DataTable/en-ph/Cspa.txt",
       "CompressedPath": "/DataTable/en-ph/Cspa.txt.7z"
     },
     {
+      "SHA256": "7d76b3d3e305d549e3b0e32f858d33e7d54a28ed577cdb4e5c8a132e01ef1a8b",
       "MD5": "897605d3cdeff039673db8c550b11aaf",
       "Path": "/DataTable/en-ph/cw.scp",
       "CompressedPath": "/DataTable/en-ph/cw.scp.7z"
     },
     {
+      "SHA256": "ecfb03d519cb1cb99bd89f1584b0328bcc65b39e145e213d8b74d32defb067ea",
       "MD5": "b02c05cabbf1e90ba112a71ea3def792",
       "Path": "/DataTable/en-ph/Exp.edf",
       "CompressedPath": "/DataTable/en-ph/Exp.edf.7z"
     },
     {
+      "SHA256": "17a4b8f5c1193b0189b075dd6a840041e4084424da8874bcd6d40a217074f5f4",
       "MD5": "ffc71fbb6b98f5a8ccd5d74e1efdeb70",
       "Path": "/DataTable/en-ph/FG_CB.ini",
       "CompressedPath": "/DataTable/en-ph/FG_CB.ini.7z"
     },
     {
+      "SHA256": "264e66e3efd58c42a95caa2dbb2332d9950c3777362de86c40ae571ad7428034",
       "MD5": "d1d7cceb9cd295834ab3211d12564438",
       "Path": "/DataTable/en-ph/font.ini",
       "CompressedPath": "/DataTable/en-ph/font.ini.7z"
     },
     {
+      "SHA256": "1e87743711919765185634d26d7ae9945edb82018ad01692df946f8ca3c896f9",
       "MD5": "24ba4d9f48ee92f1da2ae1fc22933334",
       "Path": "/DataTable/en-ph/GameData.edf",
       "CompressedPath": "/DataTable/en-ph/GameData.edf.7z"
     },
     {
+      "SHA256": "fa96d74c647b0601b1537e37bc0e503db6f71b4edc696400e034c6c72fc7123e",
       "MD5": "c7dc87fd88cd59af1999655f1ef30292",
       "Path": "/DataTable/en-ph/Hint.edf",
       "CompressedPath": "/DataTable/en-ph/Hint.edf.7z"
     },
     {
+      "SHA256": "586d82bda568b2d43da9fced99dd76c1c2941ccad985143b98c7feb198d1bd79",
       "MD5": "520b5160a975a8f0a8c2d81b584bbfc5",
       "Path": "/DataTable/en-ph/Ipa.dic",
       "CompressedPath": "/DataTable/en-ph/Ipa.dic.7z"
     },
     {
+      "SHA256": "0f01fd446cb2afdafae4ba655f44b99a6669cdf31dc65e79ee0e6f8ed1fe66a5",
       "MD5": "d366a50ea03c8325216be58096d7c6d1",
       "Path": "/DataTable/en-ph/KeyMap.dat",
       "CompressedPath": "/DataTable/en-ph/KeyMap.dat.7z"
     },
     {
+      "SHA256": "455ad2667dcc997a3db53070b2b29c2e58cee1e2b6ff67e78911ec6f39a27d44",
       "MD5": "9aad3c05348c999d074cadd1b8b8385a",
       "Path": "/DataTable/en-ph/KeyMap_NKM.dat",
       "CompressedPath": "/DataTable/en-ph/KeyMap_NKM.dat.7z"
     },
     {
+      "SHA256": "2660dde0f9e63162309b764b4694c4c8b30ffab53a9d7f28c6e146b71971051b",
       "MD5": "06157c7cc15a5d324160a730b1437cc0",
       "Path": "/DataTable/en-ph/LauncherMessage.ini",
       "CompressedPath": "/DataTable/en-ph/LauncherMessage.ini.7z"
     },
     {
+      "SHA256": "5beb867812872cbc440b372d22c2417c4d4e0ed8afce53e173fd58ebd46d854e",
       "MD5": "ad9600617151b3f12268da6d6843a97c",
       "Path": "/DataTable/en-ph/MAPDATA.DAT",
       "CompressedPath": "/DataTable/en-ph/MAPDATA.DAT.7z"
     },
     {
+      "SHA256": "7aa8e81841a6f963b17d7f41662f0fd1e30e576ff2cb2411ad96d6342bd7a72b",
       "MD5": "5faf945f8e3bd26e5fada3ce1864f1c8",
       "Path": "/DataTable/en-ph/NDCharacter.edf",
       "CompressedPath": "/DataTable/en-ph/NDCharacter.edf.7z"
     },
     {
+      "SHA256": "4e65790dd54eca56251eca9b39abaf23a91dd9a0ca613b5f228dd8a16f4e4178",
       "MD5": "1343a52bbb3d246a8715f0f00c21b8c7",
       "Path": "/DataTable/en-ph/NDEventShip.edf",
       "CompressedPath": "/DataTable/en-ph/NDEventShip.edf.7z"
     },
     {
+      "SHA256": "9e37731e1de794e651dce2b7b09fef1c00acec33b5208c9ebd8002339a9004d3",
       "MD5": "d46dc90675240fe083095eb7778265bf",
       "Path": "/DataTable/en-ph/NDItem.edf",
       "CompressedPath": "/DataTable/en-ph/NDItem.edf.7z"
     },
     {
+      "SHA256": "64faef81de216af3cf5a1c92783f849b4f095285c8fef0536c49518c1ee635be",
       "MD5": "7ceb2e4224a21c60d11dd18e217d75e3",
       "Path": "/DataTable/en-ph/NDItemCash.edf",
       "CompressedPath": "/DataTable/en-ph/NDItemCash.edf.7z"
     },
     {
+      "SHA256": "6f0892d5c6f480423c7e928beb09b097d38de7bfe9591da0f568523d477f31cb",
       "MD5": "d9b19fedcf5e8af8d3c3bdc1cc6db15d",
       "Path": "/DataTable/en-ph/NDLanguage.edf",
       "CompressedPath": "/DataTable/en-ph/NDLanguage.edf.7z"
     },
     {
+      "SHA256": "16d17ca934e42e6bfc0a94841213c88c06ecc5bdae77d9a8f5b0008df14c054c",
       "MD5": "5b53acf7fd89ab17045896fc344e70c4",
       "Path": "/DataTable/en-ph/NDMap.edf",
       "CompressedPath": "/DataTable/en-ph/NDMap.edf.7z"
     },
     {
+      "SHA256": "749c57d0e678a85b948a01aba2fdfdcf2590218e02f74cacf113b1f178bfd61c",
       "MD5": "72c137eaf1a758c1e5d3008bb40d66e8",
       "Path": "/DataTable/en-ph/NDMsgEvent.edf",
       "CompressedPath": "/DataTable/en-ph/NDMsgEvent.edf.7z"
     },
     {
+      "SHA256": "758efbd1166e5cd644de3d12903fd53629c428088e3898ff78091427ab3d7a6a",
       "MD5": "b7e5317e9084cb0b901acb6f078bd73b",
       "Path": "/DataTable/en-ph/NDMsgMonster.edf",
       "CompressedPath": "/DataTable/en-ph/NDMsgMonster.edf.7z"
     },
     {
+      "SHA256": "073665d0d6df29105e078886993a84dcbcd8e12087b736f02564c52e999282ea",
       "MD5": "62928f34ec3266a1bf5186d08405896e",
       "Path": "/DataTable/en-ph/NDQuest.edf",
       "CompressedPath": "/DataTable/en-ph/NDQuest.edf.7z"
     },
     {
+      "SHA256": "abdd83248ea7f865aa2f5ca8d6d47039106597541bce90fb7b036017ea572bc4",
       "MD5": "9224ce3f1041d29287432d0939a15df7",
       "Path": "/DataTable/en-ph/NDSkillForce.edf",
       "CompressedPath": "/DataTable/en-ph/NDSkillForce.edf.7z"
     },
     {
+      "SHA256": "8c10c723b410206bfc69eba30af9f9492965ad1b36410e8d77126469a14384c7",
       "MD5": "928e9d2fc1681180a1e6c4f0d0ed2702",
       "Path": "/DataTable/en-ph/NDStore.edf",
       "CompressedPath": "/DataTable/en-ph/NDStore.edf.7z"
     },
     {
+      "SHA256": "a53e98aeaa4eb6a06c00ca9ca7c8b02317e5e85b2a7506dcd6763d265f3622ff",
       "MD5": "712cd2325702f1d079fd1a489632f1be",
       "Path": "/DataTable/en-ph/PcRoom.edf",
       "CompressedPath": "/DataTable/en-ph/PcRoom.edf.7z"
     },
     {
+      "SHA256": "f41cc4f601307d91c260f5f6c6352a1828f808043db41c273b3cf5169e33aa43",
       "MD5": "c04f7c3ff1e1fdea8201c587782da9f6",
       "Path": "/DataTable/en-ph/Player.edf",
       "CompressedPath": "/DataTable/en-ph/Player.edf.7z"
     },
     {
+      "SHA256": "dfdc493e8e02079c2d1857c62edcbd6d013954f9f5e116b4b4e4f10a69b81ae4",
       "MD5": "7cecea19e21e485b6065634ec827e12a",
       "Path": "/DataTable/en-ph/RF_WebURL.dat",
       "CompressedPath": "/DataTable/en-ph/RF_WebURL.dat.7z"
     },
     {
+      "SHA256": "082664d9847f94b72241914d22f34517e7f78795bf58443462eb5cfaef769bda",
       "MD5": "3a3f5232ae6b1eb7a564079fe779330e",
       "Path": "/DataTable/en-ph/UIHelp.edf",
       "CompressedPath": "/DataTable/en-ph/UIHelp.edf.7z"
     },
     {
+      "SHA256": "b5fa4cb8c678fdec1c570c978e27e9ea14bee9be4038b7ea1d0009175a7da2a5",
       "MD5": "b86d1931a3d4921d05129a6554105348",
       "Path": "/DataTable/en-ph/WORLDMAPDATA.DAT",
       "CompressedPath": "/DataTable/en-ph/WORLDMAPDATA.DAT.7z"
     },
     {
+      "SHA256": "19a72bce1393be8bb1e3b86516f98dd27d3a3e245c317b232cc45276b6464d0f",
       "MD5": "f3cdc9553f311cecf2048092d941345d",
       "Path": "/DataTable/iConfig/enph_font.json",
       "CompressedPath": "/DataTable/iConfig/enph_font.json.7z"
     },
     {
+      "SHA256": "35478ca9b8c8651d0c992aa6129d840cfc301fb47845d693fd9d6acfbff40260",
       "MD5": "e91417a0eda50c2e63fef4b4e8dca532",
       "Path": "/DataTable/iConfig/R3FieldView.json",
       "CompressedPath": "/DataTable/iConfig/R3FieldView.json.7z"
     },
     {
+      "SHA256": "9517b547dacfaa3b3182ca369a5bbf4b446d092e733baec10f5f412eba4f9423",
+      "MD5": "5d6a8e5a9ea4d6727674acb038022860",
+      "Path": "/NetLog/LauncherLog.txt",
+      "CompressedPath": "/NetLog/LauncherLog.txt.7z"
+    },
+    {
+      "SHA256": "9466e6c962dd09e9e4a690411c935ae1c90a742ada432259e04126125a22306b",
+      "MD5": "439b017eff40c239020045f64b653419",
+      "Path": "/NetLog/LoginHistory.log",
+      "CompressedPath": "/NetLog/LoginHistory.log.7z"
+    },
+    {
+      "SHA256": "4f4adcdaa09074f1b944b9fe46c94e67425d9d9f10a2836dc5599d0fceae61b6",
+      "MD5": "ec3e979226fca4ed9b431b12f68fc1dd",
+      "Path": "/System/010.TTF",
+      "CompressedPath": "/System/010.TTF.7z"
+    },
+    {
+      "SHA256": "43a9c7dfba0fc4c92e01005eccb12d5a20a446c86893aa1680ec9dc2cab0596b",
+      "MD5": "f93bc46c28b9ab64a0edc428bcf8b6a9",
+      "Path": "/System/ccrlogo.dds",
+      "CompressedPath": "/System/ccrlogo.dds.7z"
+    },
+    {
+      "SHA256": "318d33ecd7189d8c144ddf50eb30b3a1ef3be609aa95a5652e4d6a210f66f772",
+      "MD5": "a5825e1afa1505cc87ef6e53b4fe592c",
+      "Path": "/System/console.jpg",
+      "CompressedPath": "/System/console.jpg.7z"
+    },
+    {
+      "SHA256": "8b24bbe9a114bc8975e56a7d2b19f358e1e4bae5d62699256ef3c2f69d7d3aa0",
+      "MD5": "99268e1ba0300a448dd2e054295deaca",
+      "Path": "/System/default.cfg",
+      "CompressedPath": "/System/default.cfg.7z"
+    },
+    {
+      "SHA256": "39c15c7004bd7082611262ddabf42b298f61960a62e29bcabdc8124bef8b2cc8",
+      "MD5": "db5b44ed7bd0b6414f771b25292d7e43",
+      "Path": "/System/DeleteFileList.txt",
+      "CompressedPath": "/System/DeleteFileList.txt.7z"
+    },
+    {
+      "SHA256": "603c17fdd3270318b483ed1191287619faf75d4cb9ee1648ec0eace346f1f445",
+      "MD5": "04a5b750e2b59c98664c7faef8693952",
+      "Path": "/System/FileData.z",
+      "CompressedPath": "/System/FileData.z.7z"
+    },
+    {
+      "SHA256": "45f5cac3c5a81902eb8bd3809ba7d58066db6dee85711c3e24c0a4028275a890",
+      "MD5": "aaa333bcd8d7feb461824dc35675fa33",
+      "Path": "/System/idll.rdt",
+      "CompressedPath": "/System/idll.rdt.7z"
+    },
+    {
+      "SHA256": "58498040767d1eadec2944b571be978273495fc59c8fe7c8071cdc5aea1ec307",
+      "MD5": "13d081c58e90c363d9240cb052a29d68",
+      "Path": "/System/rfoemf.dat",
+      "CompressedPath": "/System/rfoemf.dat.7z"
+    },
+    {
+      "SHA256": "e3d81222bdea0647b117abac49fa00452dac61cf09dd7cb242aeab21a6a5945b",
+      "MD5": "2ba46b09da21622bd318cc029a9da0c9",
+      "Path": "/System/staff.txt",
+      "CompressedPath": "/System/staff.txt.7z"
+    },
+    {
+      "SHA256": "f70290eae5954cbde36936698ba9048fbd05d9caa66376c19807ba515ecdf589",
+      "MD5": "dc950c90bae89444e44bd985d5bae94f",
+      "Path": "/System/sun.dds",
+      "CompressedPath": "/System/sun.dds.7z"
+    },
+    {
+      "SHA256": "1993b6d7417daec2aed2aa1babdbc02586f1bf757f6aa7580dd3785296d0b2f1",
+      "MD5": "e6b15e5062d0591729e3765d335b1039",
+      "Path": "/System/titlelogo.tga",
+      "CompressedPath": "/System/titlelogo.tga.7z"
+    },
+    {
+      "SHA256": "77740ce3e07a904be87f325b93423c8291f8e12b950138c146799308b2bae1de",
+      "MD5": "e0d95f1be0d44d02fae0ee6778d5cdb7",
+      "Path": "/System/titlelogocn.tga",
+      "CompressedPath": "/System/titlelogocn.tga.7z"
+    },
+    {
+      "SHA256": "efce5580a65a93031d15812b8c96c5aea80c2236df987871a59ad43a7775e21c",
+      "MD5": "4c69118744ea89dab844e5305fecca4f",
+      "Path": "/System/uifont.ttf",
+      "CompressedPath": "/System/uifont.ttf.7z"
+    },
+    {
+      "SHA256": "153ad6561f19b888543d043d0aff6afc6516c6615cfaebde13d2d8a063aa4017",
+      "MD5": "f26dbbfa07fe5bae5b37f387890618b2",
+      "Path": "/System/Launcher/Config/ClientIntegrity.json",
+      "CompressedPath": "/System/Launcher/Config/ClientIntegrity.json.7z"
+    },
+    {
+      "SHA256": "05237e9c36a0ac4ef70e7b98c886432f56d2b0a564007ca29da6172b68c67bd5",
+      "MD5": "7fb50255c680803b3e092fe278ffae54",
+      "Path": "/System/Launcher/Config/Config.json",
+      "CompressedPath": "/System/Launcher/Config/Config.json.7z"
+    },
+    {
+      "SHA256": "fb764d72397c71e8a891b2cc99fa3037db2c1fbf659c8f467a3336b52c2ad50e",
+      "MD5": "4a8d93ba9f23086bf9cddd72841a78d6",
+      "Path": "/System/Launcher/Config/version.json",
+      "CompressedPath": "/System/Launcher/Config/version.json.7z"
+    },
+    {
+      "SHA256": "2311b2ae5d2d8cb74f6ff97dbec63df2de62ab2c1d77eb1a0b3569e856b1fa4d",
+      "MD5": "39feadae762277cf8a1dd9977da65107",
+      "Path": "/System/Launcher/Logins/lastuser.json",
+      "CompressedPath": "/System/Launcher/Logins/lastuser.json.7z"
+    },
+    {
+      "SHA256": "8a01ec7e46185b28cce0ceb3d38876e370e3781fc46f7198ec00ccc536a3550c",
+      "MD5": "d7c82faf0ccf04906c108e810d2f38ad",
+      "Path": "/System/Launcher/Logins/machine.id",
+      "CompressedPath": "/System/Launcher/Logins/machine.id.7z"
+    },
+    {
+      "SHA256": "4e67e4e31bd3227685961185aaff637b4e73871840144f6182c6d0ca75a4739c",
+      "MD5": "00515b529a4cd5b749af57d0c107c465",
+      "Path": "/System/Launcher/Logins/profiles.json",
+      "CompressedPath": "/System/Launcher/Logins/profiles.json.7z"
+    },
+    {
+      "SHA256": "199d42cc2bac73a97198032c5469c35fe46e74b0d95281a32860d0655f2225ff",
+      "MD5": "b021dea2d14126c9b1237386593454d4",
+      "Path": "/System/Launcher/Logins/user.dat",
+      "CompressedPath": "/System/Launcher/Logins/user.dat.7z"
+    },
+    {
+      "SHA256": "5141f35c4c9ca415aeda09f2c28ef7f43548412aad1d3f11031863ed26b14322",
+      "MD5": "751463f37d9126b46e7dbf17b4fa9593",
+      "Path": "/System/Launcher/Resources/background.bmp",
+      "CompressedPath": "/System/Launcher/Resources/background.bmp.7z"
+    },
+    {
+      "SHA256": "04930d415f34d1cc16ef6d53eebabd461ded774c701d8f9d56ee10342c5da359",
+      "MD5": "618fe9b569a2c5814ac12389cb54aa0a",
+      "Path": "/System/Launcher/Resources/btn_cancel.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_cancel.bmp.7z"
+    },
+    {
+      "SHA256": "f7f5adda315e28a8d51455ec33bd140ea06a0170f62e0d11d8aed9491ec25cc7",
+      "MD5": "80cf6eeae058c36358e731fba629e3a9",
+      "Path": "/System/Launcher/Resources/btn_cancel_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_cancel_hover.bmp.7z"
+    },
+    {
+      "SHA256": "e0927536032c9f3420894b7ab56efa99b68e581fe67b9e02df66088f39f8abc3",
+      "MD5": "fa8727a5bde15ca01dc0aa0a02e74247",
+      "Path": "/System/Launcher/Resources/btn_close.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_close.bmp.7z"
+    },
+    {
+      "SHA256": "ae62cd724d37835f7af9404c5f278ed1ec0a4ee960dd2f13820809376b0ee501",
+      "MD5": "f78ed74f8244f42451b919d8bbf63f62",
+      "Path": "/System/Launcher/Resources/btn_close_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_close_hover.bmp.7z"
+    },
+    {
+      "SHA256": "fdf08ae1b420612aa428a4eeb568b81d9b15aff2f772755c9371e7442ce1893e",
+      "MD5": "7742a4f213a78c52d8b5111ea4a03248",
+      "Path": "/System/Launcher/Resources/btn_disable2fa.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_disable2fa.bmp.7z"
+    },
+    {
+      "SHA256": "2b06b7734def6fda9887c3113c76bbfe833432c57d7d00b8be0fdeff3bc008b1",
+      "MD5": "4c89f27d5ed620295fe58422d7c77d12",
+      "Path": "/System/Launcher/Resources/btn_disable2fa_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_disable2fa_hover.bmp.7z"
+    },
+    {
+      "SHA256": "95252ced154f7e678da1f78c8ad6147362e2ba4ae1603144004be780f2bd5baf",
+      "MD5": "ee04aaea05c1a8c4bba004d35c4958d6",
+      "Path": "/System/Launcher/Resources/btn_discord.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_discord.bmp.7z"
+    },
+    {
+      "SHA256": "407e1472ffa5c4c079fb0f63e4aa86613f6efdc921888ef2a9f6eb6df4611637",
+      "MD5": "4f701142bd67e7c3fd37a56c6c87bae7",
+      "Path": "/System/Launcher/Resources/btn_discord_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_discord_hover.bmp.7z"
+    },
+    {
+      "SHA256": "3f693f13c578c6c51928d97ba314ba99d79702cc2854036a5b2e114fb1c6c429",
+      "MD5": "a0ecd128cc8cb04deb87d78c152e102c",
+      "Path": "/System/Launcher/Resources/btn_enable2fa.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_enable2fa.bmp.7z"
+    },
+    {
+      "SHA256": "8dcac29e00774739e3e51872fdb568b8f519002eaf78dd27b1ef7dd5ee055677",
+      "MD5": "0b759909f1bcc5b29fa2bfd707a877ac",
+      "Path": "/System/Launcher/Resources/btn_enable2fa_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_enable2fa_hover.bmp.7z"
+    },
+    {
+      "SHA256": "0566a93dcde6b93006df1938c1ccfe1fe8343cb77fd9e0c72644c6392f66caa3",
+      "MD5": "92a41beed7567728619a089b0d41cbe8",
+      "Path": "/System/Launcher/Resources/btn_facebook.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_facebook.bmp.7z"
+    },
+    {
+      "SHA256": "805132dde5fb31545088fb0382f35d09dd0b02f8a12ed336b0a5b4ae98df5df1",
+      "MD5": "d73c4503abe6d17c9117e0b2bd883a61",
+      "Path": "/System/Launcher/Resources/btn_facebook_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_facebook_hover.bmp.7z"
+    },
+    {
+      "SHA256": "6629df5d590cd77be804b8e539dc11809f596d74e427f6ef873506549d7129d3",
+      "MD5": "36305dbe1d35ed31a7fd601c1f6658eb",
+      "Path": "/System/Launcher/Resources/btn_gameguide.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_gameguide.bmp.7z"
+    },
+    {
+      "SHA256": "30795828f2204c70a7886878fc19faffeffc48bee0821174e6bd33b19be1c2ee",
+      "MD5": "6016be1d3303ac29390bd76e447e8b79",
+      "Path": "/System/Launcher/Resources/btn_gameguide_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_gameguide_hover.bmp.7z"
+    },
+    {
+      "SHA256": "d96258404a89b6d30468e09080a6624250b7ca16d5be230098b0d81b469a24ec",
+      "MD5": "66b4b0d945ac8cf37dacb3adaff15c8e",
+      "Path": "/System/Launcher/Resources/btn_join.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_join.bmp.7z"
+    },
+    {
+      "SHA256": "01153d58525c7b2d0a68786aef99f683a39d16ee8665be9c67ab1e2f07ee3e2d",
+      "MD5": "55283af46ea445d83f43a0996c2bb5d5",
+      "Path": "/System/Launcher/Resources/btn_join_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_join_hover.bmp.7z"
+    },
+    {
+      "SHA256": "c8a4d24d269972d6848f203c31a98720a7e26c075da8db56b3af9bdb1badcc8c",
+      "MD5": "197f21bc5b77f7f59e3bd29b46f2e796",
+      "Path": "/System/Launcher/Resources/btn_login.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_login.bmp.7z"
+    },
+    {
+      "SHA256": "ea132d26658c200046c827d4fe08ecdcf9c62008dc2874a98ed66c21ad4b7f6d",
+      "MD5": "5f7d0ee3f2996a004a7b80c21e0d5bb0",
+      "Path": "/System/Launcher/Resources/btn_login_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_login_hover.bmp.7z"
+    },
+    {
+      "SHA256": "bec4f261c68d2d6a63dfa10709274336307a4dd1eaf33c4b7bbb5b94e3e7d38c",
+      "MD5": "b8a49a8f83d45fde0c8eb97669df758f",
+      "Path": "/System/Launcher/Resources/btn_logout.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_logout.bmp.7z"
+    },
+    {
+      "SHA256": "526353c5ce8bcf55f22a3ec976c035a4092457a241ec4da2addb53ad937494e3",
+      "MD5": "4a6303bac548bb223d71428cb0513433",
+      "Path": "/System/Launcher/Resources/btn_logout_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_logout_hover.bmp.7z"
+    },
+    {
+      "SHA256": "dd4ff2945412209414cb11a1124d7df80af49bba5c2eababdc5694886a07ab31",
+      "MD5": "d17c4c549acdcb9d56f7cc371f269f76",
+      "Path": "/System/Launcher/Resources/btn_minimize.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_minimize.bmp.7z"
+    },
+    {
+      "SHA256": "627a87468958925b3e41721f30fc9d2718e4b08a83edbc428cca1d9150241452",
+      "MD5": "b71f94f847c32bc29b48eea3efc5e3cb",
+      "Path": "/System/Launcher/Resources/btn_minimize_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_minimize_hover.bmp.7z"
+    },
+    {
+      "SHA256": "979fdf10827da756ab36208fbc5663e03b0d92e71cc4c2c77e4f7e679c1811a6",
+      "MD5": "0dca5f6467f9a12a5644d085027f9580",
+      "Path": "/System/Launcher/Resources/btn_myaccount.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_myaccount.bmp.7z"
+    },
+    {
+      "SHA256": "234930fc2cf983de21e669f7e4c3f734e43b1e93c85522a977dd7a5b5a401f46",
+      "MD5": "ae9731d653ddfe8e7718ac060de6f6f5",
+      "Path": "/System/Launcher/Resources/btn_myaccount_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_myaccount_hover.bmp.7z"
+    },
+    {
+      "SHA256": "c5eadb40329fcd556c2a2fd14a2c8ef29418ee3dd05f92e033516624a5800fa0",
+      "MD5": "ca1a7dff0cafca0022c7fd2c96c5c419",
+      "Path": "/System/Launcher/Resources/btn_playnow.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_playnow.bmp.7z"
+    },
+    {
+      "SHA256": "e7272b282196f2af619760d66a07a0c4289acbb7712a04df43e7366f7b91157b",
+      "MD5": "2eebfe7c96af64162548def862e1daae",
+      "Path": "/System/Launcher/Resources/btn_playnow_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_playnow_hover.bmp.7z"
+    },
+    {
+      "SHA256": "2b7aa15956174c97d6daa9725a6bfbf0b444f129c2fead4f08be29c101d42861",
+      "MD5": "a82495dca7f7f0b7ba86473650590e84",
+      "Path": "/System/Launcher/Resources/btn_resetpassword.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_resetpassword.bmp.7z"
+    },
+    {
+      "SHA256": "0f06738a1091b20d825619657a704f03803ac0d448958ee2bda0a0666a577199",
+      "MD5": "543e455b03c784548ae1264be88193c2",
+      "Path": "/System/Launcher/Resources/btn_resetpassword_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_resetpassword_hover.bmp.7z"
+    },
+    {
+      "SHA256": "74b4164883396a2ed04b57fd86ac770a526e4f0190206b44805245430302987f",
+      "MD5": "80fbb91fcf7525d5374896f2e370249c",
+      "Path": "/System/Launcher/Resources/btn_restoreclient.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_restoreclient.bmp.7z"
+    },
+    {
+      "SHA256": "7084351cd650d9b2213237b28aa0e581a740d84bfb88015594274543187aa3f8",
+      "MD5": "11919fa6b59b360082d07f514b090afe",
+      "Path": "/System/Launcher/Resources/btn_restoreclient_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_restoreclient_hover.bmp.7z"
+    },
+    {
+      "SHA256": "cbe2d14241983ccd4918fba5471277eeb7dedfb4ddd7ce4cf4a5bb396554655e",
+      "MD5": "27a027ad67192d376dea08fe03d2da1c",
+      "Path": "/System/Launcher/Resources/btn_save.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_save.bmp.7z"
+    },
+    {
+      "SHA256": "7141070b8ac5eef1365f731ad5a6f20abdc847d3056edee739f1aa0a87ab36e3",
+      "MD5": "387b417b467eb8123862d20cb0cb1873",
+      "Path": "/System/Launcher/Resources/btn_savepassword.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_savepassword.bmp.7z"
+    },
+    {
+      "SHA256": "64944220ceb7bb6bcd183f0b01a516968d1c4d286f6ea80ff64ee8ca9788bbc6",
+      "MD5": "c042d314be3695bf39b3bc13691826d1",
+      "Path": "/System/Launcher/Resources/btn_savepassword_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_savepassword_hover.bmp.7z"
+    },
+    {
+      "SHA256": "9d5ce0600ebf96b0f23c1a036d2fdf60fce448ecabeda6195dc52f725267cde5",
+      "MD5": "082162f89dcd19d673263a06561119ce",
+      "Path": "/System/Launcher/Resources/btn_save_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_save_hover.bmp.7z"
+    },
+    {
+      "SHA256": "c8bc857da9c7ae4fc0cd158b10564b1e6d7802fd9304bc2b97f1a01913520731",
+      "MD5": "5d8ed446f7337d7fe2f566d66747b579",
+      "Path": "/System/Launcher/Resources/btn_setup.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_setup.bmp.7z"
+    },
+    {
+      "SHA256": "3ba6283e35aaeb00e7abe0def628ef09b714b09e20884d181c8771e2bdfbbea9",
+      "MD5": "db743689791e011c592522b0f17a579f",
+      "Path": "/System/Launcher/Resources/btn_setup_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_setup_hover.bmp.7z"
+    },
+    {
+      "SHA256": "f388d4af3292127bd4dd7422de3f296b2f4f8b6449ce03e6ea0a50c11d4b35cc",
+      "MD5": "62f6e55a6b7c86b06f0dd1e759d7a661",
+      "Path": "/System/Launcher/Resources/btn_submit2facode.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_submit2facode.bmp.7z"
+    },
+    {
+      "SHA256": "dc4f83ba0a335b3a29c9dcfc23d2e51a9212afa8aff9011398c1acb129392e04",
+      "MD5": "81c29b4e66ac367f0895ee38a431657d",
+      "Path": "/System/Launcher/Resources/btn_submit2facode_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_submit2facode_hover.bmp.7z"
+    },
+    {
+      "SHA256": "584203f308ce3a5c7c0240fa674070a5b79cc955ba5d1ada3eecf2af5778d39a",
+      "MD5": "4fa3685a39114a6b34429ccd54715ddf",
+      "Path": "/System/Launcher/Resources/btn_toggle2fa.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_toggle2fa.bmp.7z"
+    },
+    {
+      "SHA256": "dc606c396d2b33cd291b21f6b564144d421a5b991f34a6dd763f7bc619b9675a",
+      "MD5": "e6c0cd9bd3bc1d8b18e7b14b609f8999",
+      "Path": "/System/Launcher/Resources/btn_toggle2fa_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_toggle2fa_hover.bmp.7z"
+    },
+    {
+      "SHA256": "aa08e8a8c3b4698c0b40db980b264e75ef387356e22c13115aba36e2b1832815",
+      "MD5": "8b6a2c9586845808b3a3821eb80f570d",
+      "Path": "/System/Launcher/Resources/btn_untrustalldevices.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_untrustalldevices.bmp.7z"
+    },
+    {
+      "SHA256": "c06c81dab534deb6595a18c1fe00f22938d43471c4664a3ed892d654fc37336a",
+      "MD5": "af24e4bfb12bc325dd72772ed319b7a6",
+      "Path": "/System/Launcher/Resources/btn_untrustalldevices_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_untrustalldevices_hover.bmp.7z"
+    },
+    {
+      "SHA256": "d470d1f8e5fa68934d1e3c1bc99902a88de79c26fc49ee8ea26156c2c9526b0b",
+      "MD5": "a15ead3421199b39a7a9886ec9cb0504",
+      "Path": "/System/Launcher/Resources/btn_untrustthisdevice.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_untrustthisdevice.bmp.7z"
+    },
+    {
+      "SHA256": "3ed0732a334bc63b8aa197291b96f9d24d46b469a2a1d93b7c588b728ff86430",
+      "MD5": "9554d100586b011d2df1eeb17821efb1",
+      "Path": "/System/Launcher/Resources/btn_untrustthisdevice_hover.bmp",
+      "CompressedPath": "/System/Launcher/Resources/btn_untrustthisdevice_hover.bmp.7z"
+    },
+    {
+      "SHA256": "5df20d43c9c1679dfdf6346c19617067091c87139971804ef2288f33fa1f733d",
+      "MD5": "ac757604c27f474db1fee0ae515881c9",
+      "Path": "/System/Launcher/Resources/gamma1.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma1.bmp.7z"
+    },
+    {
+      "SHA256": "287322374eb9280faa4c6794dd691478f338d702b7986602755b710a97569ac7",
+      "MD5": "f55d20f9876a085340ba11c332fe023c",
+      "Path": "/System/Launcher/Resources/gamma2.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma2.bmp.7z"
+    },
+    {
+      "SHA256": "e42966d454b525d5c1b2e8d12f983ab47f90fafee1448e6a9fad7786319b3c4c",
+      "MD5": "565a179b1da5d44de4266bdf35158ac5",
+      "Path": "/System/Launcher/Resources/gamma3.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma3.bmp.7z"
+    },
+    {
+      "SHA256": "84ebb8c5e3176bea45e1b2713f518c6484a30f8cb3c762ba52f7672d0762ab70",
+      "MD5": "e0f03a27dbfd0c01cad92cb7a4818a88",
+      "Path": "/System/Launcher/Resources/gamma4.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma4.bmp.7z"
+    },
+    {
+      "SHA256": "d043cfcabb7d3451ada1eac190ec7abbb91b9548d75aacc4987779fd56561e57",
+      "MD5": "793455a16dcd7576d8413b094e80f186",
+      "Path": "/System/Launcher/Resources/gamma5.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma5.bmp.7z"
+    },
+    {
+      "SHA256": "5f81cf47dea3163cd54a5a1307b7bb4341e8bb239d1319d40c84c548fd4d0fed",
+      "MD5": "378945892f11fb1a5134beaf7b41d79b",
+      "Path": "/System/Launcher/Resources/gamma6.bmp",
+      "CompressedPath": "/System/Launcher/Resources/gamma6.bmp.7z"
+    },
+    {
+      "SHA256": "25bf95e2c3587905ba1ee91f94a78d64c42019ac38deae91b3705a5e01f29bf6",
+      "MD5": "0eeff881652b7b2b499b8d2eac9f4b2d",
+      "Path": "/System/Launcher/Resources/msg_background.bmp",
+      "CompressedPath": "/System/Launcher/Resources/msg_background.bmp.7z"
+    },
+    {
+      "SHA256": "21b9bd01cb246cb5b6c179016bbf5d04bdfc2c302ddaf4dc17590f559eed01fb",
+      "MD5": "6643a72e32053afc7f70c25b8b27a5b9",
+      "Path": "/System/Launcher/Resources/notice_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/notice_form.bmp.7z"
+    },
+    {
+      "SHA256": "6b1e177516869d0493cfa31a9cfb5f734f492080449f16afabbda3301f7e9ac9",
+      "MD5": "415d35f359a88c274ad1ffb4588496bb",
+      "Path": "/System/Launcher/Resources/option_base.bmp",
+      "CompressedPath": "/System/Launcher/Resources/option_base.bmp.7z"
+    },
+    {
+      "SHA256": "a64ffc40f82b8ada5e3674675715ac579a063ecf51fb625497681a542d587a2f",
+      "MD5": "75a021664654eb3c4d89fa0655f6f337",
+      "Path": "/System/Launcher/Resources/password_change_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/password_change_form.bmp.7z"
+    },
+    {
+      "SHA256": "f07a7ab0aa02e4f23b7895b6de55f3ccc0f06649eb507d18c35183cdc0e82c94",
+      "MD5": "241e929a7ed000173d0f78c0935fc619",
+      "Path": "/System/Launcher/Resources/register_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/register_form.bmp.7z"
+    },
+    {
+      "SHA256": "d27552e55930aab0ece95e4eb4d91cb9bc2636b32d39a65841ef519217f2fdb5",
+      "MD5": "3e7fb476f5588ab93330ef080dbae6f1",
+      "Path": "/System/Launcher/Resources/reset_password_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/reset_password_form.bmp.7z"
+    },
+    {
+      "SHA256": "6ab7d4522093a56ba6f0ab8f145079f573d010470918a7a81a7b15b3eef05913",
+      "MD5": "95aacad4477923f39c37be663268451f",
+      "Path": "/System/Launcher/Resources/server_list.bmp",
+      "CompressedPath": "/System/Launcher/Resources/server_list.bmp.7z"
+    },
+    {
+      "SHA256": "d27552e55930aab0ece95e4eb4d91cb9bc2636b32d39a65841ef519217f2fdb5",
+      "MD5": "3e7fb476f5588ab93330ef080dbae6f1",
+      "Path": "/System/Launcher/Resources/twofa_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/twofa_form.bmp.7z"
+    },
+    {
+      "SHA256": "f07a7ab0aa02e4f23b7895b6de55f3ccc0f06649eb507d18c35183cdc0e82c94",
+      "MD5": "241e929a7ed000173d0f78c0935fc619",
+      "Path": "/System/Launcher/Resources/user_loggedin_form.bmp",
+      "CompressedPath": "/System/Launcher/Resources/user_loggedin_form.bmp.7z"
+    },
+    {
+      "SHA256": "9e5b2fecaba725abcfab9c96b77a344c07ce599c2ff3a538150eb8d5bb3618bf",
+      "MD5": "f93dd2a1f097ea55f0c10254398b1d8c",
+      "Path": "/System/Launcher/Resources/world_list.bmp",
+      "CompressedPath": "/System/Launcher/Resources/world_list.bmp.7z"
+    },
+    {
+      "SHA256": "11e3ed66591cf45517d2be9d49745c607cd87b70b0ccf5e56a52b097a9d37576",
+      "MD5": "899a1e33926e1460f6a26dda9fc0b30a",
+      "Path": "/System/Launcher/Resources/world_status.bmp",
+      "CompressedPath": "/System/Launcher/Resources/world_status.bmp.7z"
+    },
+    {
+      "SHA256": "f22a378ea427373a033f349e105e90fe1e2955dfd459252f6a9ab7d35eb35257",
+      "MD5": "38224c2e69f36898486e548863b1faa0",
+      "Path": "/System/Launcher/Sliders/1.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/1.jpg.7z"
+    },
+    {
+      "SHA256": "50e25c8fac39ebffd65192906898271848f22a0c6cf0850190db4eba3a201fda",
+      "MD5": "f6f098d953306bba634c4ccf52edcec0",
+      "Path": "/System/Launcher/Sliders/2.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/2.jpg.7z"
+    },
+    {
+      "SHA256": "ad5da8982536480f1258f5a419dbc59b9139c8b3b2a51c9db3f380961a672b26",
+      "MD5": "10fe5346cb80f0c403d772cdba60f2be",
+      "Path": "/System/Launcher/Sliders/3.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/3.jpg.7z"
+    },
+    {
+      "SHA256": "673e81c6e9c340160d217f7816e847617fc5a631e154f29ac6042dda767f8140",
+      "MD5": "9abbc08bba1baeb45cb5a7bc01d7518b",
+      "Path": "/System/Launcher/Sliders/4.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/4.jpg.7z"
+    },
+    {
+      "SHA256": "4e55b5f3a579c754e67b804f94c1bcf0c502a4b67f1b44343ec7fa0caf2cd5ef",
+      "MD5": "2b37427e02f8ce8c95977f5fef348f94",
+      "Path": "/System/Launcher/Sliders/5.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/5.jpg.7z"
+    },
+    {
+      "SHA256": "04ac1878e800142c056da659a18e280aa64058c38a6fe217660a9bc5e56e03e0",
+      "MD5": "ee3f217eaf3bf145e7f8bf722e18a60e",
+      "Path": "/System/Launcher/Sliders/6.jpg",
+      "CompressedPath": "/System/Launcher/Sliders/6.jpg.7z"
+    },
+    {
+      "SHA256": "4caf52420fd515e089bef2ab152247a2c0c80de31931f69d5cff6345af10a713",
       "MD5": "0a545e3f05a96500ee2524a80c20baca",
       "Path": "/System/mouse/attack.ani",
       "CompressedPath": "/System/mouse/attack.ani.7z"
     },
     {
+      "SHA256": "f31673f9dfc4c579c28331f0bf311e666a5f02fa663aff236dd08d92b5ab7c5c",
       "MD5": "2924fffe4c8b69787467fbff59f60522",
       "Path": "/System/mouse/basic.ani",
       "CompressedPath": "/System/mouse/basic.ani.7z"
     },
     {
+      "SHA256": "fb9397d34133dd5fed358a3436c84223b1ca7e1f480cb7ae7e49e64fb24d160b",
       "MD5": "36cd2aa4c50b9f301e023299f4c0868d",
       "Path": "/System/mouse/force.ani",
       "CompressedPath": "/System/mouse/force.ani.7z"
     },
     {
+      "SHA256": "384901fdcd0c05fa0ae4c5072735bd745a52fc213888a505993a125cc574cc03",
       "MD5": "8114373c1679f4914dad746b2f146c72",
       "Path": "/System/mouse/get.ani",
       "CompressedPath": "/System/mouse/get.ani.7z"
     },
     {
+      "SHA256": "cfedcd6b233c2fede2bfac96f4623cd25479a46ab4bb8beeae932ec564abe227",
       "MD5": "4a69ba4eb20425dfb5cd45b33ad3cbce",
       "Path": "/System/mouse/NPC.ani",
       "CompressedPath": "/System/mouse/NPC.ani.7z"
     },
     {
+      "SHA256": "bf82575cd18f435c4f4d5860090a468a28b023ef194bc6d91acd608c4b6a40aa",
       "MD5": "bff97a359793e49b7cd3d6a22e8c37e4",
       "Path": "/System/mouse/samerace.ani",
       "CompressedPath": "/System/mouse/samerace.ani.7z"
     },
     {
+      "SHA256": "873f7d7877693aef8db8815f3aa06709b39296ee6aa0299181f604be17481b6c",
       "MD5": "fe1def72e16bb3753526900487179ddf",
       "Path": "/System/mouse/skill.ani",
       "CompressedPath": "/System/mouse/skill.ani.7z"
     },
     {
+      "SHA256": "5bfec8560b2c799c575b75ea850cbe27f821fa85237560a34467de1b444f7235",
       "MD5": "8c41a5e9e5a1bb6e4fdfdcb3bc8d20a8",
       "Path": "/System/Shader/BlurBlit.nvp",
       "CompressedPath": "/System/Shader/BlurBlit.nvp.7z"
     },
     {
+      "SHA256": "9499e2f60bb4cf8098d2111a7c9e9cfa65cc839e50f3da24d6d59c35d40242a9",
       "MD5": "a9b3b9b50a77cddaa47fb75e35896885",
       "Path": "/System/Shader/BlurBlit.pso",
       "CompressedPath": "/System/Shader/BlurBlit.pso.7z"
     },
     {
+      "SHA256": "88e761753e62e63c858235589f9becfc61f3ff6ebf1381958f3229372dadad79",
       "MD5": "9d24f6b25516c7711e1b5ea1a5037269",
       "Path": "/System/Shader/FilterBlit.nvv",
       "CompressedPath": "/System/Shader/FilterBlit.nvv.7z"
     },
     {
+      "SHA256": "a3b9a76a776e86bed477797966b532c1f23fba37bea0c7e31ba7c3d5df5ae60c",
       "MD5": "c5e538b12a247bc74e124fec7250fa31",
       "Path": "/System/Shader/FilterBlit.vso",
       "CompressedPath": "/System/Shader/FilterBlit.vso.7z"
     },
     {
+      "SHA256": "e32d397802f965abd369097398932bb0388a1dcbdac182e2871a19517e23261f",
       "MD5": "fbc8b707bc12c0788ac2c913e12a30c4",
       "Path": "/System/Shader/Grass1.vsh",
       "CompressedPath": "/System/Shader/Grass1.vsh.7z"
     },
     {
+      "SHA256": "a1ed1ece1616cefeef9f1093ec6169fc7423b1018efffc11f3de751528cef4d5",
       "MD5": "ef6399568328fcf0082d4f613ac51c23",
       "Path": "/System/Shader/grass1.vso",
       "CompressedPath": "/System/Shader/grass1.vso.7z"
     },
     {
+      "SHA256": "a7d551a5a7dce2a6bbb8887fbc0e0a2c68dc83dff7bab1443b0eef51ab01353c",
       "MD5": "f25f071bf7ffaf614107e7937623c0e6",
       "Path": "/System/Shader/init.r3o",
       "CompressedPath": "/System/Shader/init.r3o.7z"
     },
     {
+      "SHA256": "1dfa5a1f2722050972306a9683283912c69ff23438a4c216228467848884e9a5",
       "MD5": "1e9cd573fcd00b05ec91c30591cb5c69",
       "Path": "/System/Shader/LitGrass1.vsh",
       "CompressedPath": "/System/Shader/LitGrass1.vsh.7z"
     },
     {
+      "SHA256": "a56584fc8a5bb5b6783e526b04835c16a9712cacdfafe95031f74b723b155dbc",
       "MD5": "3c002a5194451ded14a94d824cdefcf3",
       "Path": "/System/Shader/LitGrass1.vso",
       "CompressedPath": "/System/Shader/LitGrass1.vso.7z"
     },
     {
+      "SHA256": "49051362d06fe92a4b113dacba6e6cd4a382e951170962855289d0fe1e25eecd",
       "MD5": "ff5edfe7156e9b38b447eb3bcb33f4a7",
       "Path": "/System/Shader/pFraction.sho",
       "CompressedPath": "/System/Shader/pFraction.sho.7z"
     },
     {
+      "SHA256": "f10f9817b1fd0803df578526e6d4465725718d61918659a09e38ef291b13a803",
       "MD5": "0e5d4d7640293ce2c10e570b9b5e358a",
       "Path": "/System/Shader/pPlazma.sho",
       "CompressedPath": "/System/Shader/pPlazma.sho.7z"
     },
     {
+      "SHA256": "5083d669989b749a3faa22a358a2cc03853ccf278aa5846208c393f555305d77",
       "MD5": "e6cffcbac9cbfe788395c9cc75a7dfe5",
       "Path": "/System/Shader/Reflection.vsh",
       "CompressedPath": "/System/Shader/Reflection.vsh.7z"
     },
     {
+      "SHA256": "a81742b15b5da18f9d4ef42cf3ba5db8c1224f4a67718437f5f6533955f586d7",
       "MD5": "338ac497cfe598472fc880ffd0af4e16",
       "Path": "/System/Shader/Reflection.vso",
       "CompressedPath": "/System/Shader/Reflection.vso.7z"
     },
     {
+      "SHA256": "7a4e233746b1792668360784ececccd6a349d79518c6f884a36c2d5b301b4df6",
       "MD5": "326a2d144439fb8d51a24690bcc43d27",
       "Path": "/System/Shader/Scatter.vsh",
       "CompressedPath": "/System/Shader/Scatter.vsh.7z"
     },
     {
+      "SHA256": "eee9e9786da4201d5c4d2dd58d9bc9af7ef81f3cc5dbae326d6de291fc8a60af",
       "MD5": "7d1382f7213a774800653c408658524c",
       "Path": "/System/Shader/Scatter.vso",
       "CompressedPath": "/System/Shader/Scatter.vso.7z"
     },
     {
+      "SHA256": "0369f909c90c2f38ccfda5d3dedcfa86971dcbf6c8f8913747cef6d0c27da607",
       "MD5": "87b3f321a72a1eb3f1cd8f3505ac11f3",
       "Path": "/System/Shader/sh_basic.sho",
       "CompressedPath": "/System/Shader/sh_basic.sho.7z"
     },
     {
+      "SHA256": "226c40e9ef6f5482fcb4ddc902784a79d4878e2e8f0f95f2184d7b7d557a8802",
       "MD5": "c5fcf343739699990cee1276f5610ccf",
       "Path": "/System/Shader/sh_basic_alpha.sho",
       "CompressedPath": "/System/Shader/sh_basic_alpha.sho.7z"
     },
     {
+      "SHA256": "3f7eee8b8f04f04cb4ed7eb9ad34aec309593a37041a50c4e207ab5e53249c32",
       "MD5": "2b6d2d30497c8a287157fd2cdffde9a2",
       "Path": "/System/Shader/sh_basic_bump.sho",
       "CompressedPath": "/System/Shader/sh_basic_bump.sho.7z"
     },
     {
+      "SHA256": "9c2b3ab82e60f89539235dfbe7b12128db82350b5d0d8fc8a2cbd7e6ef223123",
       "MD5": "02b1349f9a99c21553b6a72d8cace81c",
       "Path": "/System/Shader/sh_basic_BumpEffect.sho",
       "CompressedPath": "/System/Shader/sh_basic_BumpEffect.sho.7z"
     },
     {
+      "SHA256": "a11f75734ed0d77b4f90792a973b227efbf23ad17d3d5f2fa75fc8ed059bdbff",
       "MD5": "c7b461d887aaf1c4dcddc0560486b9a0",
       "Path": "/System/Shader/sh_basic_DScroll.sho",
       "CompressedPath": "/System/Shader/sh_basic_DScroll.sho.7z"
     },
     {
+      "SHA256": "d58d859327e7865ad52476615e94ae4b249cfda6c77f27dd604ed467f834bf38",
       "MD5": "6a844f92ea224c2f46532f333f6abcfc",
       "Path": "/System/Shader/sh_basic_eff.sho",
       "CompressedPath": "/System/Shader/sh_basic_eff.sho.7z"
     },
     {
+      "SHA256": "99f74309e51b993904750591c538eeee6035e8e1ce9c935062246983185f1f1c",
       "MD5": "bcc5ac65845e3dc84d786911e73cd021",
       "Path": "/System/Shader/sh_basic_EnvScroll.sho",
       "CompressedPath": "/System/Shader/sh_basic_EnvScroll.sho.7z"
     },
     {
+      "SHA256": "0b7a9fec08828087dd383dc6e76089f10d77e80685e0c50cdce504506c5d42bf",
       "MD5": "2dc964966726a7ea6880aef9fb73ee4b",
       "Path": "/System/Shader/sh_basic_GradeEffect.sho",
       "CompressedPath": "/System/Shader/sh_basic_GradeEffect.sho.7z"
     },
     {
+      "SHA256": "f7a6cd5c3d9c7235df4a4227a0f61ef24bb8ecdd79917e44a0d4d7125d41f604",
       "MD5": "e4aa7416fee5c9128432c504d29c657a",
       "Path": "/System/Shader/sh_basic_GradeEnvEffect.sho",
       "CompressedPath": "/System/Shader/sh_basic_GradeEnvEffect.sho.7z"
     },
     {
+      "SHA256": "e32a0188487b221d4cc238ca354377acdb3f2dee3d9169398c86c52de9c89c3c",
       "MD5": "702b9d5db3b774ca491c30a7217e0e65",
       "Path": "/System/Shader/sh_basic_Scroll.sho",
       "CompressedPath": "/System/Shader/sh_basic_Scroll.sho.7z"
     },
     {
+      "SHA256": "16e3c91510c071f5f7cd67b28a22a937f01ebd0d4dd6d25ffd67d646d72cb58e",
       "MD5": "ef33f838272c0689ac8f5ed62708b4d0",
       "Path": "/System/Shader/sh_normal.sho",
       "CompressedPath": "/System/Shader/sh_normal.sho.7z"
     },
     {
+      "SHA256": "8e2756f59cf940418b05434c2b7e078db93ec3cf9e4239c69a2423830046114f",
       "MD5": "8df8149a78e8f636cdecbb093f136dfb",
       "Path": "/System/Shader/sh_norm_spec.sho",
       "CompressedPath": "/System/Shader/sh_norm_spec.sho.7z"
     },
     {
+      "SHA256": "8c2f5ac8a8116778332dd23f42ca1137483348fa796f8a6d060e40cf2b5aeea6",
       "MD5": "e601f7a5b1c25501deec410e8c970d63",
       "Path": "/System/Shader/sh_Shadow.sho",
       "CompressedPath": "/System/Shader/sh_Shadow.sho.7z"
     },
     {
+      "SHA256": "51bfa22725cb4524cd0bb753088d273e877811509f81de2935009865f1e063ad",
       "MD5": "34cd9feae4bfdaa6a4d5125f54d5577e",
       "Path": "/System/Shader/transition.psh",
       "CompressedPath": "/System/Shader/transition.psh.7z"
     },
     {
+      "SHA256": "887f8fb9b33dfb34bb5a067670d8263c45e33643e8c67b995a68676f10125110",
       "MD5": "a722cbeec6dbf36b34e0fcddf667781d",
       "Path": "/System/Shader/transition.pso",
       "CompressedPath": "/System/Shader/transition.pso.7z"
     },
     {
+      "SHA256": "81132a18bb1b769900fe655d02a4116fbf3843e88a31f0d488de12897d6b392b",
       "MD5": "bb7ef668fe43ae96290b2400471a55bc",
       "Path": "/System/Shader/transition.vsh",
       "CompressedPath": "/System/Shader/transition.vsh.7z"
     },
     {
+      "SHA256": "92d2f9317c23d3eea4800b896b1bed6d892d8decc5b2ec62d2a2d5fff43da321",
       "MD5": "311d8a5cccda64341c9d159ceaf32cf3",
       "Path": "/System/Shader/transition.vso",
       "CompressedPath": "/System/Shader/transition.vso.7z"
     },
     {
+      "SHA256": "bf34a801f63093bffc9a8c3ee0516226b05c5472ab7c1674f9335e526f485e55",
       "MD5": "9e6d46780623d646482a2469a3d2ffc9",
       "Path": "/System/Shader/vFraction.sho",
       "CompressedPath": "/System/Shader/vFraction.sho.7z"
     },
     {
+      "SHA256": "dcf81c12074884495ee3d40af81fe6cb93cfb8201b896b1bc6db31ae17b84642",
       "MD5": "a8f5e47535dc717b4aee364763b6b8d1",
       "Path": "/System/Shader/vPlazma.sho",
       "CompressedPath": "/System/Shader/vPlazma.sho.7z"
