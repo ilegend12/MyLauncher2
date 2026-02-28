@@ -134,12 +134,6 @@
       "CompressedPath": "/mssmp3.asi.7z"
     },
     {
-      "SHA256": "61a9624959dba54cb176bb3cd124a4f6864af3f494c11c2abe252752dcf221e8",
-      "MD5": "de55f2e9583e2a442f1eb926cfcc3a46",
-      "Path": "/patch.cache",
-      "CompressedPath": "/patch.cache.7z"
-    },
-    {
       "SHA256": "d9639b727ebdd6cb0780bf6be8f705d9ed9fbb36f422e4177cbb442adc879bde",
       "MD5": "0a806af0f095ce651bf7e69f3aab5807",
       "Path": "/PDLL.dll",
@@ -945,3 +939,4 @@
     }
   ]
 }
+
